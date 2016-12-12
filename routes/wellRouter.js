@@ -39,4 +39,10 @@ router.get('/well/:serial', (req, res, next) => {
   .then(well => res.json(well))
 })
 
+router.get('/test', (req, res, next) => {
+  Well.find()
+  .then(wells => {
+    res.send(wells.length)
+  })
+})
 module.exports = exports = router;
