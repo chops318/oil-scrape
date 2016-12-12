@@ -1,0 +1,3782 @@
+[
+  {
+    "serial": "177254",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "177506",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "177510",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "177530",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "177555",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "177679",
+    "field": "MOUNT SINAI"
+  },
+  {
+    "serial": "177801",
+    "field": "DYKESVILLE, EAST"
+  },
+  {
+    "serial": "177846",
+    "field": "DYKESVILLE, EAST"
+  },
+  {
+    "serial": "177847",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "177916",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "177917",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "177949",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "178104",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "178105",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "178131",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "178132",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "178205",
+    "field": "LISBON"
+  },
+  {
+    "serial": "178227",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "178287",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "178321",
+    "field": "ANTIOCH, NORTHWEST"
+  },
+  {
+    "serial": "178322",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "178542",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "178556",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "178557",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "178573",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "178718",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "178729",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "178793",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "178870",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "179144",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "179174",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "179231",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "179259",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "179260",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "179370",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "179428",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "179486",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "179625",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "179695",
+    "field": "BAYOU MIDDLE FORK"
+  },
+  {
+    "serial": "179716",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "179813",
+    "field": "DYKESVILLE, EAST"
+  },
+  {
+    "serial": "179860",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "180037",
+    "field": "DYKESVILLE, EAST"
+  },
+  {
+    "serial": "180040",
+    "field": "HOMER, NORTHEAST"
+  },
+  {
+    "serial": "180075",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "180197",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "180505",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "180639",
+    "field": "DYKESVILLE, EAST"
+  },
+  {
+    "serial": "180688",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "180868",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "181193",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "181352",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "181371",
+    "field": "LILLIE, SOUTHWEST"
+  },
+  {
+    "serial": "181400",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "181601",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "181621",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "181630",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "181858",
+    "field": "LEATHERMAN CREEK"
+  },
+  {
+    "serial": "181859",
+    "field": "MOUNT SINAI"
+  },
+  {
+    "serial": "182673",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "182691",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "182849",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "182850",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "182851",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "183067",
+    "field": "OAKS"
+  },
+  {
+    "serial": "183261",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "183262",
+    "field": "HOMER"
+  },
+  {
+    "serial": "183389",
+    "field": "LISBON"
+  },
+  {
+    "serial": "183688",
+    "field": "DYKESVILLE, EAST"
+  },
+  {
+    "serial": "184140",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "184165",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "184396",
+    "field": "LISBON"
+  },
+  {
+    "serial": "184533",
+    "field": "FRAZIER CREEK"
+  },
+  {
+    "serial": "184835",
+    "field": "OAKS"
+  },
+  {
+    "serial": "184871",
+    "field": "MOUNT SINAI"
+  },
+  {
+    "serial": "185269",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "185462",
+    "field": "HOMER"
+  },
+  {
+    "serial": "185596",
+    "field": "HOMER"
+  },
+  {
+    "serial": "185779",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "185780",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "185813",
+    "field": "HOMER"
+  },
+  {
+    "serial": "185814",
+    "field": "HOMER"
+  },
+  {
+    "serial": "185848",
+    "field": "COLQUITT, NORTHWEST"
+  },
+  {
+    "serial": "185978",
+    "field": "DYKESVILLE, EAST"
+  },
+  {
+    "serial": "186268",
+    "field": "OAKS"
+  },
+  {
+    "serial": "186712",
+    "field": "MC CASLAND CREEK"
+  },
+  {
+    "serial": "186767",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "186906",
+    "field": "HOMER"
+  },
+  {
+    "serial": "186907",
+    "field": "HOMER"
+  },
+  {
+    "serial": "187089",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "187090",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "187201",
+    "field": "LISBON"
+  },
+  {
+    "serial": "187258",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "187777",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "187926",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "187932",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "188081",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "188245",
+    "field": "LISBON"
+  },
+  {
+    "serial": "188368",
+    "field": "LISBON"
+  },
+  {
+    "serial": "188481",
+    "field": "LISBON"
+  },
+  {
+    "serial": "188653",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "189072",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "189175",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "189277",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "189367",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "190147",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "190236",
+    "field": "LISBON"
+  },
+  {
+    "serial": "190573",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "190856",
+    "field": "BAYOU MIDDLE FORK"
+  },
+  {
+    "serial": "191193",
+    "field": "LISBON"
+  },
+  {
+    "serial": "191393",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "191552",
+    "field": "LISBON"
+  },
+  {
+    "serial": "191669",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "192015",
+    "field": "LISBON"
+  },
+  {
+    "serial": "192093",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "192270",
+    "field": "MOUNT SINAI"
+  },
+  {
+    "serial": "192698",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "192713",
+    "field": "LISBON"
+  },
+  {
+    "serial": "193078",
+    "field": "OAKS"
+  },
+  {
+    "serial": "194545",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "195303",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "195950",
+    "field": "BAYOU MIDDLE FORK"
+  },
+  {
+    "serial": "195951",
+    "field": "LISBON"
+  },
+  {
+    "serial": "195987",
+    "field": "HOMER"
+  },
+  {
+    "serial": "196266",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "196385",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "196411",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "196937",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "197112",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "197113",
+    "field": "LICK CREEK"
+  },
+  {
+    "serial": "197470",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "197471",
+    "field": "LEATHERMAN CREEK"
+  },
+  {
+    "serial": "197472",
+    "field": "LISBON"
+  },
+  {
+    "serial": "197765",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "197827",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "198104",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198105",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198106",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198107",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198108",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198162",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198215",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198216",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198217",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198218",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198265",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198290",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198350",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198351",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198355",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198356",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198411",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198416",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198417",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198440",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198441",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198442",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198443",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198444",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198445",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198446",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198447",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198460",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198461",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198463",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198464",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198465",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198489",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198570",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198640",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "198661",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198725",
+    "field": "HOMER"
+  },
+  {
+    "serial": "198743",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "198977",
+    "field": "HOMER"
+  },
+  {
+    "serial": "199031",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "199116",
+    "field": "HOMER"
+  },
+  {
+    "serial": "199117",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "199156",
+    "field": "LISBON"
+  },
+  {
+    "serial": "199240",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "199261",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "199371",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "199670",
+    "field": "OAKS"
+  },
+  {
+    "serial": "199751",
+    "field": "HOMER"
+  },
+  {
+    "serial": "200051",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "200138",
+    "field": "LISBON"
+  },
+  {
+    "serial": "200315",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "200355",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "200406",
+    "field": "HOMER"
+  },
+  {
+    "serial": "200409",
+    "field": "HOMER"
+  },
+  {
+    "serial": "200410",
+    "field": "HOMER"
+  },
+  {
+    "serial": "200412",
+    "field": "HOMER"
+  },
+  {
+    "serial": "200413",
+    "field": "HOMER"
+  },
+  {
+    "serial": "200414",
+    "field": "HOMER"
+  },
+  {
+    "serial": "200469",
+    "field": "HOMER"
+  },
+  {
+    "serial": "200581",
+    "field": "LISBON"
+  },
+  {
+    "serial": "200804",
+    "field": "HOMER"
+  },
+  {
+    "serial": "200832",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "200833",
+    "field": "HOMER"
+  },
+  {
+    "serial": "200926",
+    "field": "HOMER"
+  },
+  {
+    "serial": "200929",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201060",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201061",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201062",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201063",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201065",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201108",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201110",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201111",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201112",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201114",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201141",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201193",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201194",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201195",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201196",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201299",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201300",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201301",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201302",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201303",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201348",
+    "field": "OAKS"
+  },
+  {
+    "serial": "201365",
+    "field": "BLACKBURN"
+  },
+  {
+    "serial": "201554",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "201556",
+    "field": "HOMER"
+  },
+  {
+    "serial": "201557",
+    "field": "HOMER"
+  },
+  {
+    "serial": "202079",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "202113",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "202174",
+    "field": "HOMER"
+  },
+  {
+    "serial": "202193",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "202275",
+    "field": "HOMER"
+  },
+  {
+    "serial": "202292",
+    "field": "OAKS"
+  },
+  {
+    "serial": "202322",
+    "field": "HOMER"
+  },
+  {
+    "serial": "202323",
+    "field": "HOMER"
+  },
+  {
+    "serial": "202489",
+    "field": "HOMER"
+  },
+  {
+    "serial": "202517",
+    "field": "LISBON"
+  },
+  {
+    "serial": "202706",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "202968",
+    "field": "OAKS"
+  },
+  {
+    "serial": "202970",
+    "field": "HOMER"
+  },
+  {
+    "serial": "203070",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "203308",
+    "field": "COLQUITT, NORTHWEST"
+  },
+  {
+    "serial": "203536",
+    "field": "BAYOU MIDDLE FORK"
+  },
+  {
+    "serial": "203823",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "203902",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "204136",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "204213",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "204302",
+    "field": "HOLLY SPRINGS"
+  },
+  {
+    "serial": "204308",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "204443",
+    "field": "BLACKBURN"
+  },
+  {
+    "serial": "204573",
+    "field": "HOLLY SPRINGS"
+  },
+  {
+    "serial": "204662",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "204687",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "204706",
+    "field": "LISBON"
+  },
+  {
+    "serial": "204866",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "204902",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "205085",
+    "field": "BLACKBURN"
+  },
+  {
+    "serial": "205220",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "205246",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "205263",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "205333",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "205388",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "205397",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "205435",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "205464",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "205566",
+    "field": "FOREST GROVE SCHOOL"
+  },
+  {
+    "serial": "205663",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "205696",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "205716",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "205850",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "206004",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "206270",
+    "field": "OAKS"
+  },
+  {
+    "serial": "206359",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "206385",
+    "field": "BLACKBURN"
+  },
+  {
+    "serial": "206409",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "206427",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "206428",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "206429",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "206534",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "206793",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "207097",
+    "field": "LICK CREEK"
+  },
+  {
+    "serial": "207133",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "207193",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "207358",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "207387",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "207460",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "207502",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "207562",
+    "field": "MOUNT SINAI"
+  },
+  {
+    "serial": "207612",
+    "field": "OAKS"
+  },
+  {
+    "serial": "207950",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "208021",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "208135",
+    "field": "FOREST GROVE SCHOOL"
+  },
+  {
+    "serial": "208210",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "208329",
+    "field": "HOMER"
+  },
+  {
+    "serial": "208340",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "208486",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "208730",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "208907",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "208951",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "208958",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "208967",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "209002",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "209003",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "209077",
+    "field": "LISBON"
+  },
+  {
+    "serial": "209171",
+    "field": "LICK CREEK"
+  },
+  {
+    "serial": "209177",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "209192",
+    "field": "LISBON"
+  },
+  {
+    "serial": "209216",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "209254",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "209376",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "209509",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "209511",
+    "field": "HOMER"
+  },
+  {
+    "serial": "209677",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "209735",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "209796",
+    "field": "LISBON"
+  },
+  {
+    "serial": "209896",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "209917",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "209932",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "210151",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "210249",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "210312",
+    "field": "BLACKBURN"
+  },
+  {
+    "serial": "210314",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "210324",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "210411",
+    "field": "LISBON"
+  },
+  {
+    "serial": "210568",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "210752",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "210817",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "210818",
+    "field": "OAKS"
+  },
+  {
+    "serial": "210992",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "211015",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "211042",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "211055",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "211095",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "211208",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "211254",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "211308",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "211354",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "211355",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "211371",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "211467",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "211599",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "211600",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "211620",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "211728",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "211729",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "211774",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "211785",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "211848",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "211897",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "211938",
+    "field": "MOUNT SINAI"
+  },
+  {
+    "serial": "211994",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212004",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "212034",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "212133",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "212166",
+    "field": "BLACKBURN, EAST"
+  },
+  {
+    "serial": "212236",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212237",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212265",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "212269",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212289",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "212312",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212390",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "212392",
+    "field": "LISBON"
+  },
+  {
+    "serial": "212433",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212463",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212472",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212473",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212503",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212504",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212537",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212539",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "212567",
+    "field": "LISBON"
+  },
+  {
+    "serial": "212572",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212593",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212640",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "212656",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212708",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212716",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "212763",
+    "field": "FOREST GROVE SCHOOL"
+  },
+  {
+    "serial": "212829",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "212840",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "212852",
+    "field": "OAKS"
+  },
+  {
+    "serial": "212860",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "212870",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "212888",
+    "field": "BLACKBURN"
+  },
+  {
+    "serial": "212889",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "213008",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "213009",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "213025",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "213031",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "213078",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "213109",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "213120",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "213124",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "213141",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "213184",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "213202",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "213225",
+    "field": "OAKS"
+  },
+  {
+    "serial": "213260",
+    "field": "PANTHER CREEK"
+  },
+  {
+    "serial": "213394",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "213395",
+    "field": "OAKS"
+  },
+  {
+    "serial": "213499",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "213650",
+    "field": "FOREST GROVE SCHOOL"
+  },
+  {
+    "serial": "213670",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "213734",
+    "field": "PANTHER CREEK"
+  },
+  {
+    "serial": "213823",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "213985",
+    "field": "LISBON"
+  },
+  {
+    "serial": "214012",
+    "field": "OAKS"
+  },
+  {
+    "serial": "214130",
+    "field": "OAKS"
+  },
+  {
+    "serial": "214196",
+    "field": "LISBON"
+  },
+  {
+    "serial": "214209",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "214235",
+    "field": "LISBON"
+  },
+  {
+    "serial": "214314",
+    "field": "FOREST GROVE SCHOOL"
+  },
+  {
+    "serial": "214345",
+    "field": "OAKS"
+  },
+  {
+    "serial": "214420",
+    "field": "OAKS"
+  },
+  {
+    "serial": "214433",
+    "field": "OAKS"
+  },
+  {
+    "serial": "214482",
+    "field": "OAKS"
+  },
+  {
+    "serial": "214517",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "214591",
+    "field": "OAKS"
+  },
+  {
+    "serial": "214651",
+    "field": "OAKS"
+  },
+  {
+    "serial": "214725",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "214813",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "214825",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "214901",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "214902",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "214955",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "214991",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "215030",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "215055",
+    "field": "OAKS"
+  },
+  {
+    "serial": "215071",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "215077",
+    "field": "OAKS"
+  },
+  {
+    "serial": "215178",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "215197",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "215204",
+    "field": "LEATHERMAN CREEK"
+  },
+  {
+    "serial": "215329",
+    "field": "OAKS"
+  },
+  {
+    "serial": "215394",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "215522",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "215556",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "215557",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "215644",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "215903",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "215985",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "215998",
+    "field": "DOWDY BRANCH"
+  },
+  {
+    "serial": "216031",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "216153",
+    "field": "OAKS"
+  },
+  {
+    "serial": "216246",
+    "field": "DOWDY BRANCH"
+  },
+  {
+    "serial": "216259",
+    "field": "LISBON"
+  },
+  {
+    "serial": "216298",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "216330",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "216373",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "216426",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "216454",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "216459",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "216484",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "216567",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "216599",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "216607",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "216682",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "216855",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "217000",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "217113",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "217227",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "217284",
+    "field": "LISBON"
+  },
+  {
+    "serial": "217360",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "217441",
+    "field": "LISBON"
+  },
+  {
+    "serial": "217477",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "217510",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "217511",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "217588",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "217608",
+    "field": "LISBON"
+  },
+  {
+    "serial": "217612",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "217685",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "217701",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "217702",
+    "field": "HOMER"
+  },
+  {
+    "serial": "217777",
+    "field": "LISBON"
+  },
+  {
+    "serial": "217778",
+    "field": "LISBON"
+  },
+  {
+    "serial": "217789",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "217799",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "217855",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "217948",
+    "field": "LISBON"
+  },
+  {
+    "serial": "217958",
+    "field": "DOWDY BRANCH"
+  },
+  {
+    "serial": "218002",
+    "field": "OAKS"
+  },
+  {
+    "serial": "218079",
+    "field": "LISBON"
+  },
+  {
+    "serial": "218153",
+    "field": "LISBON"
+  },
+  {
+    "serial": "218179",
+    "field": "LISBON"
+  },
+  {
+    "serial": "218188",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "218191",
+    "field": "LISBON"
+  },
+  {
+    "serial": "218192",
+    "field": "LISBON"
+  },
+  {
+    "serial": "218241",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "218338",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "218490",
+    "field": "LISBON"
+  },
+  {
+    "serial": "218508",
+    "field": "LISBON"
+  },
+  {
+    "serial": "218509",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "218570",
+    "field": "LISBON"
+  },
+  {
+    "serial": "218574",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "218599",
+    "field": "LISBON"
+  },
+  {
+    "serial": "218646",
+    "field": "LISBON"
+  },
+  {
+    "serial": "218676",
+    "field": "LISBON"
+  },
+  {
+    "serial": "218688",
+    "field": "LISBON"
+  },
+  {
+    "serial": "218694",
+    "field": "LISBON"
+  },
+  {
+    "serial": "218754",
+    "field": "LISBON"
+  },
+  {
+    "serial": "218761",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "218927",
+    "field": "LISBON"
+  },
+  {
+    "serial": "218940",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "218954",
+    "field": "LISBON"
+  },
+  {
+    "serial": "218958",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "218981",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "219068",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "219153",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "219155",
+    "field": "LISBON"
+  },
+  {
+    "serial": "219202",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "219256",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "219259",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "219274",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "219317",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "219373",
+    "field": "LISBON"
+  },
+  {
+    "serial": "219405",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "219415",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "219488",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "219517",
+    "field": "LISBON"
+  },
+  {
+    "serial": "219706",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "219724",
+    "field": "BULL CREEK"
+  },
+  {
+    "serial": "219752",
+    "field": "LISBON"
+  },
+  {
+    "serial": "219768",
+    "field": "LISBON"
+  },
+  {
+    "serial": "219817",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "219832",
+    "field": "LISBON"
+  },
+  {
+    "serial": "219835",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "219845",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "219868",
+    "field": "LISBON"
+  },
+  {
+    "serial": "219898",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "219904",
+    "field": "LISBON"
+  },
+  {
+    "serial": "219927",
+    "field": "LEATHERMAN CREEK"
+  },
+  {
+    "serial": "220013",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "220014",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "220045",
+    "field": "LISBON"
+  },
+  {
+    "serial": "220078",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "220082",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "220089",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "220106",
+    "field": "LISBON"
+  },
+  {
+    "serial": "220181",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "220182",
+    "field": "LISBON"
+  },
+  {
+    "serial": "220233",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "220306",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "220314",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "220315",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "220334",
+    "field": "COLQUITT, NORTHWEST"
+  },
+  {
+    "serial": "220470",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "220495",
+    "field": "LISBON"
+  },
+  {
+    "serial": "220506",
+    "field": "LISBON"
+  },
+  {
+    "serial": "220584",
+    "field": "SUMMERFIELD"
+  },
+  {
+    "serial": "220594",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "220666",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "220742",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "220795",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "220826",
+    "field": "LISBON"
+  },
+  {
+    "serial": "220828",
+    "field": "LISBON"
+  },
+  {
+    "serial": "220845",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "220905",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "220907",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "220951",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "221009",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "221065",
+    "field": "LISBON"
+  },
+  {
+    "serial": "221066",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "221067",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "221098",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "221099",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "221126",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "221163",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "221183",
+    "field": "COLQUITT, NORTHWEST"
+  },
+  {
+    "serial": "221216",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "221278",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "221279",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "221291",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "221309",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "221350",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "221369",
+    "field": "LISBON"
+  },
+  {
+    "serial": "221380",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "221447",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "221448",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "221503",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "221511",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "221562",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "221628",
+    "field": "LISBON"
+  },
+  {
+    "serial": "221729",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "221732",
+    "field": "OAKS"
+  },
+  {
+    "serial": "221742",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "221782",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "221845",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "221852",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "221864",
+    "field": "LISBON"
+  },
+  {
+    "serial": "221869",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "221895",
+    "field": "LISBON"
+  },
+  {
+    "serial": "221909",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "221913",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "221947",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "221948",
+    "field": "LISBON"
+  },
+  {
+    "serial": "221964",
+    "field": "LEATHERMAN CREEK"
+  },
+  {
+    "serial": "221984",
+    "field": "LISBON"
+  },
+  {
+    "serial": "221989",
+    "field": "LISBON"
+  },
+  {
+    "serial": "222039",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "222102",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "222189",
+    "field": "LISBON"
+  },
+  {
+    "serial": "222226",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "222243",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "222287",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "222341",
+    "field": "LISBON"
+  },
+  {
+    "serial": "222343",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "222389",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "222466",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "222486",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "222522",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "222574",
+    "field": "LISBON"
+  },
+  {
+    "serial": "222604",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "222681",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "222706",
+    "field": "COLQUITT, NORTHWEST"
+  },
+  {
+    "serial": "222766",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "222791",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "222829",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "222912",
+    "field": "LEATHERMAN CREEK"
+  },
+  {
+    "serial": "223035",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "223087",
+    "field": "LISBON"
+  },
+  {
+    "serial": "223092",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "223143",
+    "field": "SUMMERFIELD"
+  },
+  {
+    "serial": "223195",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "223203",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "223204",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "223243",
+    "field": "ANTIOCH, NORTHWEST"
+  },
+  {
+    "serial": "223285",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "223301",
+    "field": "LISBON"
+  },
+  {
+    "serial": "223326",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "223341",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "223364",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "223382",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "223433",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "223478",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "223492",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "223507",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "223650",
+    "field": "LEATHERMAN CREEK"
+  },
+  {
+    "serial": "223675",
+    "field": "LISBON"
+  },
+  {
+    "serial": "223685",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "223785",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "223795",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "223845",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "223860",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "223861",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "224030",
+    "field": "LISBON"
+  },
+  {
+    "serial": "224088",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "224123",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "224186",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "224206",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "224287",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "224316",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "224505",
+    "field": "LISBON"
+  },
+  {
+    "serial": "224527",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "224563",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "224564",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "224661",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "224698",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "224729",
+    "field": "LISBON"
+  },
+  {
+    "serial": "224775",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "224869",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "224873",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "224874",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "225016",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "225024",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "225026",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "225318",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "225338",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "225348",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "225393",
+    "field": "COLQUITT"
+  },
+  {
+    "serial": "225435",
+    "field": "LISBON"
+  },
+  {
+    "serial": "225444",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "225517",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "225615",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "225706",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "225739",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "225826",
+    "field": "LISBON"
+  },
+  {
+    "serial": "225855",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "225866",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "225899",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "225931",
+    "field": "LEATHERMAN CREEK"
+  },
+  {
+    "serial": "225935",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "225984",
+    "field": "BAYOU MIDDLE FORK"
+  },
+  {
+    "serial": "226025",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "226030",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "226038",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "226079",
+    "field": "ARCADIA, NORTH"
+  },
+  {
+    "serial": "226282",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "226372",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "226498",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "226499",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "226578",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "226714",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "226897",
+    "field": "LEATHERMAN CREEK"
+  },
+  {
+    "serial": "227119",
+    "field": "HOMER"
+  },
+  {
+    "serial": "227204",
+    "field": "LEATHERMAN CREEK"
+  },
+  {
+    "serial": "227306",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "227321",
+    "field": "DYKESVILLE, EAST"
+  },
+  {
+    "serial": "227601",
+    "field": "LISBON"
+  },
+  {
+    "serial": "227672",
+    "field": "LISBON"
+  },
+  {
+    "serial": "227940",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "227948",
+    "field": "LISBON"
+  },
+  {
+    "serial": "227976",
+    "field": "LISBON"
+  },
+  {
+    "serial": "228058",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "228254",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "228350",
+    "field": "DYKESVILLE, EAST"
+  },
+  {
+    "serial": "228452",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "228673",
+    "field": "DYKESVILLE, EAST"
+  },
+  {
+    "serial": "228705",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "228797",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "228798",
+    "field": "LISBON"
+  },
+  {
+    "serial": "228865",
+    "field": "LISBON"
+  },
+  {
+    "serial": "228881",
+    "field": "LISBON"
+  },
+  {
+    "serial": "229078",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "229105",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "229129",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "229136",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "229214",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "229317",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "229466",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "229494",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "229672",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "229679",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "229842",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "229843",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "229910",
+    "field": "LISBON"
+  },
+  {
+    "serial": "230013",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "230054",
+    "field": "PANTHER CREEK"
+  },
+  {
+    "serial": "230067",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "230412",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "230637",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "230709",
+    "field": "FOREST GROVE SCHOOL"
+  },
+  {
+    "serial": "230861",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "230869",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "230960",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "231041",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "231108",
+    "field": "LISBON"
+  },
+  {
+    "serial": "231158",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "231198",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "231205",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "231233",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "231271",
+    "field": "LISBON"
+  },
+  {
+    "serial": "231387",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "231473",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "231474",
+    "field": "SHONGALOO, NORTH-RED ROCK"
+  },
+  {
+    "serial": "231674",
+    "field": "LISBON"
+  },
+  {
+    "serial": "231692",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "231767",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "231907",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "231944",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "231969",
+    "field": "MC CASLAND CREEK"
+  },
+  {
+    "serial": "232162",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "232257",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "232404",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "232405",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "232461",
+    "field": "LISBON"
+  },
+  {
+    "serial": "232503",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "232519",
+    "field": "LISBON"
+  },
+  {
+    "serial": "232676",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "232716",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "232859",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "232878",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "232881",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "233028",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "233045",
+    "field": "FRAZIER CREEK"
+  },
+  {
+    "serial": "233052",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "233334",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "233337",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "233450",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "233488",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "233556",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "233620",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "233820",
+    "field": "LEATHERMAN CREEK"
+  },
+  {
+    "serial": "233902",
+    "field": "COLQUITT, NORTHWEST"
+  },
+  {
+    "serial": "233927",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "233953",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "233987",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "233996",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "234170",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "234185",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "234292",
+    "field": "COLQUITT, NORTHWEST"
+  },
+  {
+    "serial": "234499",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "234601",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "234636",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "235056",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "235145",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "235290",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "235326",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "235639",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "235657",
+    "field": "COLQUITT, NORTHWEST"
+  },
+  {
+    "serial": "235856",
+    "field": "LISBON, WEST"
+  },
+  {
+    "serial": "235923",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "235945",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "235970",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "236079",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "236080",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "236164",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "236312",
+    "field": "MOUNT SINAI"
+  },
+  {
+    "serial": "236447",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "236551",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "236624",
+    "field": "LEATHERMAN CREEK"
+  },
+  {
+    "serial": "236711",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "236817",
+    "field": "MOUNT SINAI"
+  },
+  {
+    "serial": "236968",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "236995",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "237003",
+    "field": "BLACKBURN"
+  },
+  {
+    "serial": "237266",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "237288",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "237333",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "237568",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "237577",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "237749",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "237867",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "238105",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "238112",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "238332",
+    "field": "MOUNT SINAI"
+  },
+  {
+    "serial": "238415",
+    "field": "COLQUITT, NORTHWEST"
+  },
+  {
+    "serial": "238422",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "238634",
+    "field": "LISBON"
+  },
+  {
+    "serial": "238636",
+    "field": "MOUNT SINAI"
+  },
+  {
+    "serial": "238827",
+    "field": "SUMMERFIELD"
+  },
+  {
+    "serial": "239393",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "239981",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "240065",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "240118",
+    "field": "SUMMERFIELD"
+  },
+  {
+    "serial": "240341",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "240575",
+    "field": "LISBON"
+  },
+  {
+    "serial": "240589",
+    "field": "LISBON"
+  },
+  {
+    "serial": "240623",
+    "field": "LISBON"
+  },
+  {
+    "serial": "240852",
+    "field": "LISBON"
+  },
+  {
+    "serial": "240888",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "240919",
+    "field": "LISBON"
+  },
+  {
+    "serial": "240920",
+    "field": "LISBON"
+  },
+  {
+    "serial": "240966",
+    "field": "FOREST GROVE SCHOOL"
+  },
+  {
+    "serial": "241268",
+    "field": "LISBON"
+  },
+  {
+    "serial": "241616",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "241806",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "241952",
+    "field": "LISBON"
+  },
+  {
+    "serial": "242329",
+    "field": "LISBON"
+  },
+  {
+    "serial": "242397",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "242855",
+    "field": "LISBON"
+  },
+  {
+    "serial": "242902",
+    "field": "LISBON"
+  },
+  {
+    "serial": "243241",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "243307",
+    "field": "LISBON"
+  },
+  {
+    "serial": "243581",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "243641",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "243758",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "243912",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "244046",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "244168",
+    "field": "LISBON"
+  },
+  {
+    "serial": "244209",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "244244",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "244286",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "244367",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "244498",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "244499",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "244597",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "244598",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "244666",
+    "field": "OAKS"
+  },
+  {
+    "serial": "244700",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "244733",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "244827",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "244839",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "244913",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "245006",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "245094",
+    "field": "LISBON"
+  },
+  {
+    "serial": "245101",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "245115",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "245231",
+    "field": "OAKS"
+  },
+  {
+    "serial": "245232",
+    "field": "OAKS"
+  },
+  {
+    "serial": "245277",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "245376",
+    "field": "OAKS"
+  },
+  {
+    "serial": "245390",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "245396",
+    "field": "OAKS"
+  },
+  {
+    "serial": "245489",
+    "field": "OAKS"
+  },
+  {
+    "serial": "245501",
+    "field": "LISBON"
+  },
+  {
+    "serial": "245551",
+    "field": "OAKS"
+  },
+  {
+    "serial": "245590",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "245664",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "245665",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "245775",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "245787",
+    "field": "OAKS"
+  },
+  {
+    "serial": "245788",
+    "field": "OAKS"
+  },
+  {
+    "serial": "245943",
+    "field": "OAKS"
+  },
+  {
+    "serial": "245967",
+    "field": "OAKS"
+  },
+  {
+    "serial": "246207",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "246208",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "246878",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "246935",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "246968",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "247017",
+    "field": "HOMER"
+  },
+  {
+    "serial": "247019",
+    "field": "HOMER"
+  },
+  {
+    "serial": "247230",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "247273",
+    "field": "ANTIOCH"
+  },
+  {
+    "serial": "247325",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "247503",
+    "field": "LISBON"
+  },
+  {
+    "serial": "247512",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "247525",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "247649",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "247672",
+    "field": "HOMER"
+  },
+  {
+    "serial": "247707",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "247972",
+    "field": "OAKS"
+  },
+  {
+    "serial": "248034",
+    "field": "OAKS"
+  },
+  {
+    "serial": "248329",
+    "field": "LEATHERMAN CREEK"
+  },
+  {
+    "serial": "248603",
+    "field": "LISBON"
+  },
+  {
+    "serial": "248669",
+    "field": "MCKENZIE"
+  },
+  {
+    "serial": "248700",
+    "field": "ATHENS"
+  },
+  {
+    "serial": "248839",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "249099",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "249132",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "249259",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "249271",
+    "field": "BLACKBURN"
+  },
+  {
+    "serial": "249433",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "249533",
+    "field": "HAYNESVILLE, EAST"
+  },
+  {
+    "serial": "970530",
+    "field": "LISBON"
+  },
+  {
+    "serial": "971608",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990066",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990069",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990071",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990073",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990074",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990075",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990155",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990156",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990157",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990159",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990161",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990163",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990164",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990165",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990166",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990167",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990168",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990169",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990170",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990171",
+    "field": "HOMER"
+  },
+  {
+    "serial": "990258",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "990259",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "990261",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "990262",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "990263",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "990286",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "990292",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "990314",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "990367",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "990511",
+    "field": "HAYNESVILLE"
+  },
+  {
+    "serial": "990600",
+    "field": "HAYNESVILLE"
+  }
+]

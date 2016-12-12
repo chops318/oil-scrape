@@ -1,0 +1,2394 @@
+[
+  {
+    "serial": "11678",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "14672",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "20790",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "28273",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "28436",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "28699",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "28714",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "28761",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "28789",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "28914",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "28985",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29120",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29180",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "29194",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "29211",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29233",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29237",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29321",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29362",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "29380",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29426",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "29461",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29462",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29482",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "29483",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29505",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29542",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29568",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29569",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29583",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "29606",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "29662",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "29663",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29682",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29683",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29706",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29727",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29735",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "29767",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29815",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29839",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29921",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29945",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29954",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "29955",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "29985",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "30015",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "30016",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "30038",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "30074",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "30174",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "30175",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "30307",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "30435",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "30548",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "30654",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "30758",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "30760",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "30770",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "30793",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "30816",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "31032",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "31061",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "31129",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "31130",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "31237",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "31286",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "31329",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "31364",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "31373",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "31374",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "31639",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "31875",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "31896",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "31909",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "32105",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "32248",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "32249",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "32306",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "32408",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "32644",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "32867",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "33321",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "33998",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "34740",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "34771",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "34869",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "34888",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "35025",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "35259",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "35448",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "35449",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "35450",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "35762",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "36211",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "36442",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "36973",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "37968",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "40626",
+    "field": "LAKE BRUIN"
+  },
+  {
+    "serial": "41487",
+    "field": "LAKE ST JOSEPH"
+  },
+  {
+    "serial": "44263",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "44493",
+    "field": "HELENA"
+  },
+  {
+    "serial": "44635",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "46553",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "48709",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "50166",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "50468",
+    "field": "ST JOSEPH"
+  },
+  {
+    "serial": "50863",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "52714",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "52793",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "52794",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "53246",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "54113",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "54424",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "54834",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "54914",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "55182",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "55369",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "55408",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "55734",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "55775",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "55796",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "56069",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "56570",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "56926",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "57002",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "57135",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "57269",
+    "field": "NEWLIGHT"
+  },
+  {
+    "serial": "57402",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "57442",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "57499",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "57958",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "58260",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "58261",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "58529",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "58634",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "58688",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "58689",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "59018",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "59019",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "59024",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "59229",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "59642",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "59689",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "59858",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "59872",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "60019",
+    "field": "NEWLIGHT"
+  },
+  {
+    "serial": "60072",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "60092",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "60217",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "60389",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "60694",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "60734",
+    "field": "ST JOSEPH"
+  },
+  {
+    "serial": "61293",
+    "field": "NEWLIGHT"
+  },
+  {
+    "serial": "61407",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "61408",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "61721",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "61780",
+    "field": "NEWLIGHT"
+  },
+  {
+    "serial": "62169",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "62195",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "62199",
+    "field": "NEWLIGHT"
+  },
+  {
+    "serial": "62835",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "62962",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "63095",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "63295",
+    "field": "JUSTINA"
+  },
+  {
+    "serial": "63373",
+    "field": "NEWLIGHT"
+  },
+  {
+    "serial": "63399",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "63707",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "63708",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "64252",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "64343",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "64344",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "64964",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "64965",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "65018",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "65284",
+    "field": "SARANAC"
+  },
+  {
+    "serial": "65460",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "65462",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "65598",
+    "field": "JUSTINA"
+  },
+  {
+    "serial": "65650",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "65997",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "66230",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "66489",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "67024",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "67155",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "67250",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "67483",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "67626",
+    "field": "SARANAC"
+  },
+  {
+    "serial": "67686",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "67800",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "67818",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "67819",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "67820",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "67821",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "68282",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "68411",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "68438",
+    "field": "CHAMBLEE"
+  },
+  {
+    "serial": "68748",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "68805",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "68990",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "69116",
+    "field": "NEWLIGHT, WEST"
+  },
+  {
+    "serial": "69138",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "69139",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "69325",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "69406",
+    "field": "NEWLIGHT, WEST"
+  },
+  {
+    "serial": "69407",
+    "field": "NEWLIGHT, WEST"
+  },
+  {
+    "serial": "69492",
+    "field": "LAKE MARYDALE"
+  },
+  {
+    "serial": "69545",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "69600",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "69928",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "70025",
+    "field": "NEWLIGHT, WEST"
+  },
+  {
+    "serial": "70108",
+    "field": "SARANAC"
+  },
+  {
+    "serial": "70327",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "70330",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "70332",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "70571",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "70891",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "70931",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "71064",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "71072",
+    "field": "NEWLIGHT, WEST"
+  },
+  {
+    "serial": "71130",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "71195",
+    "field": "NEWLIGHT"
+  },
+  {
+    "serial": "71295",
+    "field": "WESTWOOD"
+  },
+  {
+    "serial": "71505",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "71598",
+    "field": "NEWLIGHT, WEST"
+  },
+  {
+    "serial": "71631",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "72003",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "72079",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "72231",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "72390",
+    "field": "WESTWOOD"
+  },
+  {
+    "serial": "72586",
+    "field": "HOLLY RIDGE, NORTH"
+  },
+  {
+    "serial": "73127",
+    "field": "SARANAC"
+  },
+  {
+    "serial": "73401",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "73444",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "73632",
+    "field": "WESTWOOD"
+  },
+  {
+    "serial": "74149",
+    "field": "NEWLIGHT, WEST"
+  },
+  {
+    "serial": "74373",
+    "field": "CHAMBLEE"
+  },
+  {
+    "serial": "74418",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "74880",
+    "field": "LAKE MARYDALE, NORTH"
+  },
+  {
+    "serial": "75040",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "75149",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "75297",
+    "field": "HOLLY RIDGE, NORTH"
+  },
+  {
+    "serial": "76289",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "76411",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "76513",
+    "field": "LAKE MARYDALE, NORTH"
+  },
+  {
+    "serial": "76711",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "76726",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "76748",
+    "field": "LAKE MARYDALE"
+  },
+  {
+    "serial": "77197",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "77198",
+    "field": "JUSTINA"
+  },
+  {
+    "serial": "78053",
+    "field": "JUSTINA"
+  },
+  {
+    "serial": "78054",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "78096",
+    "field": "SARANAC"
+  },
+  {
+    "serial": "78781",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "79393",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "79562",
+    "field": "NEWLIGHT, WEST"
+  },
+  {
+    "serial": "79763",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "79842",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "80010",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "80356",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "80362",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "80363",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "80411",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "80696",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "81317",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "81379",
+    "field": "ST JOSEPH"
+  },
+  {
+    "serial": "81791",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "81908",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "81909",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "81910",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "82165",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "82497",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "82590",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "82747",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "82832",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "82915",
+    "field": "ST JOSEPH"
+  },
+  {
+    "serial": "83030",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "83339",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "83489",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "83495",
+    "field": "CRIMEA"
+  },
+  {
+    "serial": "83641",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "83659",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "84020",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "84186",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "84213",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "84468",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "85198",
+    "field": "ST JOSEPH"
+  },
+  {
+    "serial": "85706",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "85766",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "86213",
+    "field": "ST JOSEPH"
+  },
+  {
+    "serial": "86378",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "86537",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "86914",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "86924",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "87081",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "87237",
+    "field": "AUBREY"
+  },
+  {
+    "serial": "87257",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "87370",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "87372",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "87522",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "87617",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "88061",
+    "field": "AUBREY"
+  },
+  {
+    "serial": "88065",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "88066",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "88084",
+    "field": "MOUND BAYOU"
+  },
+  {
+    "serial": "88539",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "88549",
+    "field": "CRIMEA"
+  },
+  {
+    "serial": "88583",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "88840",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "88842",
+    "field": "HARD BARGAIN"
+  },
+  {
+    "serial": "88887",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "89085",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "89219",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "89260",
+    "field": "ST JOSEPH"
+  },
+  {
+    "serial": "89437",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "89622",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "89623",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "89624",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "89783",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "89784",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "89956",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "90165",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "90363",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "90392",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "90415",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "90589",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "90751",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "90800",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "90801",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "90854",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "90931",
+    "field": "NEWLIGHT"
+  },
+  {
+    "serial": "91016",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "91020",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "91079",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "91081",
+    "field": "ST JOSEPH"
+  },
+  {
+    "serial": "91224",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "91275",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "91563",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "91976",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "92162",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "92253",
+    "field": "HELENA"
+  },
+  {
+    "serial": "92278",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "92350",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "92351",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "92828",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "92829",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "92991",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "93240",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "93457",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "93458",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "93920",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "93925",
+    "field": "AUBREY"
+  },
+  {
+    "serial": "93929",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "94038",
+    "field": "ST JOSEPH"
+  },
+  {
+    "serial": "94077",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "94159",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "94372",
+    "field": "CRIMEA"
+  },
+  {
+    "serial": "94888",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "95128",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "95342",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "95536",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "95948",
+    "field": "ST JOSEPH"
+  },
+  {
+    "serial": "96011",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "96324",
+    "field": "MOUND BAYOU"
+  },
+  {
+    "serial": "96328",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "96490",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "96575",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "96771",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "96894",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "96895",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "97310",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "97318",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "98078",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "98237",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "98249",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "98414",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "99110",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "99328",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "99396",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "99439",
+    "field": "LAKE MARYDALE"
+  },
+  {
+    "serial": "99638",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "99639",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "99663",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "99665",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "99813",
+    "field": "ST JOSEPH"
+  },
+  {
+    "serial": "99958",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "100034",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "100127",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "100249",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "100283",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "100382",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "101051",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "101392",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "101406",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "101766",
+    "field": "CANEY BAYOU"
+  },
+  {
+    "serial": "102052",
+    "field": "ST JOSEPH"
+  },
+  {
+    "serial": "102486",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "102515",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "102788",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "103781",
+    "field": "AUBREY"
+  },
+  {
+    "serial": "103948",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "104225",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "105106",
+    "field": "MOUND BAYOU"
+  },
+  {
+    "serial": "105114",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "105138",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "105801",
+    "field": "MOUND BAYOU"
+  },
+  {
+    "serial": "107362",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "108174",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "108753",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "109099",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "109430",
+    "field": "WESTWOOD"
+  },
+  {
+    "serial": "109636",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "111945",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "112777",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "113707",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "114511",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "114590",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "115168",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "115250",
+    "field": "CHAMBLEE"
+  },
+  {
+    "serial": "116074",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "116414",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "116509",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "116898",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "116925",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "117890",
+    "field": "CHAMBLEE"
+  },
+  {
+    "serial": "118041",
+    "field": "LAKE ST JOHN, NORTHEAST"
+  },
+  {
+    "serial": "120000",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "120173",
+    "field": "CHAMBLEE"
+  },
+  {
+    "serial": "122467",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "122613",
+    "field": "CHAMBLEE"
+  },
+  {
+    "serial": "122823",
+    "field": "CHAMBLEE"
+  },
+  {
+    "serial": "122931",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "123098",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "123459",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "124885",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "125473",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "125516",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "125568",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "125615",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "125788",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "126871",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "127097",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "127152",
+    "field": "SUNDOWN"
+  },
+  {
+    "serial": "130363",
+    "field": "AUBREY"
+  },
+  {
+    "serial": "131530",
+    "field": "AUBREY"
+  },
+  {
+    "serial": "133762",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "138431",
+    "field": "LAKE MARYDALE"
+  },
+  {
+    "serial": "138439",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "139101",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "140603",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "142334",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "143047",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "143048",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "143093",
+    "field": "CHAMBLEE"
+  },
+  {
+    "serial": "143618",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "143910",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "144424",
+    "field": "DELTA BRIDGE"
+  },
+  {
+    "serial": "144425",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "144973",
+    "field": "CHAMBLEE"
+  },
+  {
+    "serial": "145970",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "146354",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "146406",
+    "field": "DELTA BRIDGE"
+  },
+  {
+    "serial": "146870",
+    "field": "DELTA BRIDGE"
+  },
+  {
+    "serial": "147256",
+    "field": "ST JOSEPH, SOUTH"
+  },
+  {
+    "serial": "148060",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "148556",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "148764",
+    "field": "DELTA BRIDGE"
+  },
+  {
+    "serial": "148862",
+    "field": "ST JOSEPH, SOUTH"
+  },
+  {
+    "serial": "148990",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "149266",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "149361",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "150280",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "150816",
+    "field": "ST JOSEPH"
+  },
+  {
+    "serial": "151047",
+    "field": "ST JOSEPH, SOUTH"
+  },
+  {
+    "serial": "151184",
+    "field": "ST JOSEPH, SOUTH"
+  },
+  {
+    "serial": "151483",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "151625",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "152417",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "152964",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "153448",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "153842",
+    "field": "RODNEY ISLAND"
+  },
+  {
+    "serial": "155106",
+    "field": "ST JOSEPH, SOUTH"
+  },
+  {
+    "serial": "155950",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "156241",
+    "field": "DELTA BRIDGE"
+  },
+  {
+    "serial": "156984",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "157224",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "158828",
+    "field": "WESTWOOD"
+  },
+  {
+    "serial": "158940",
+    "field": "WESTWOOD"
+  },
+  {
+    "serial": "159031",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "159194",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "159911",
+    "field": "WESTWOOD"
+  },
+  {
+    "serial": "159972",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "159974",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "160015",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "160060",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "160132",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "160497",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "161573",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "162019",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "162153",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "162231",
+    "field": "DELTA BRIDGE"
+  },
+  {
+    "serial": "162295",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "162654",
+    "field": "BUCKSHOT BAYOU"
+  },
+  {
+    "serial": "162655",
+    "field": "BUCKSHOT BAYOU"
+  },
+  {
+    "serial": "162704",
+    "field": "DELTA BRIDGE"
+  },
+  {
+    "serial": "163243",
+    "field": "BUCKSHOT BAYOU"
+  },
+  {
+    "serial": "163368",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "163702",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "165254",
+    "field": "DELTA BRIDGE"
+  },
+  {
+    "serial": "166534",
+    "field": "NEW QUARTERS"
+  },
+  {
+    "serial": "166834",
+    "field": "DELTA BRIDGE"
+  },
+  {
+    "serial": "167265",
+    "field": "NEW QUARTERS"
+  },
+  {
+    "serial": "167972",
+    "field": "NEW QUARTERS"
+  },
+  {
+    "serial": "168744",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "170410",
+    "field": "DELTA BRIDGE"
+  },
+  {
+    "serial": "170888",
+    "field": "PECAN LANDING"
+  },
+  {
+    "serial": "170889",
+    "field": "KINGS POINT"
+  },
+  {
+    "serial": "170912",
+    "field": "NEW QUARTERS"
+  },
+  {
+    "serial": "171899",
+    "field": "NEW QUARTERS"
+  },
+  {
+    "serial": "171909",
+    "field": "KINGS POINT"
+  },
+  {
+    "serial": "173772",
+    "field": "NEW QUARTERS"
+  },
+  {
+    "serial": "175369",
+    "field": "FOX LAKE"
+  },
+  {
+    "serial": "175817",
+    "field": "KINGS POINT"
+  },
+  {
+    "serial": "176363",
+    "field": "KINGS POINT"
+  },
+  {
+    "serial": "176423",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "176830",
+    "field": "DELTA BRIDGE"
+  },
+  {
+    "serial": "177036",
+    "field": "FOX LAKE"
+  },
+  {
+    "serial": "178063",
+    "field": "KINGS POINT"
+  },
+  {
+    "serial": "178123",
+    "field": "SUNDOWN"
+  },
+  {
+    "serial": "178805",
+    "field": "AUBREY"
+  },
+  {
+    "serial": "178916",
+    "field": "MOUND BAYOU"
+  },
+  {
+    "serial": "180378",
+    "field": "NEW QUARTERS"
+  },
+  {
+    "serial": "182679",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "183048",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "183348",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "183566",
+    "field": "NEW QUARTERS"
+  },
+  {
+    "serial": "183567",
+    "field": "NEW QUARTERS"
+  },
+  {
+    "serial": "185033",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "187727",
+    "field": "NEW QUARTERS, WEST"
+  },
+  {
+    "serial": "188073",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "188092",
+    "field": "ST JOSEPH, SOUTH"
+  },
+  {
+    "serial": "189001",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "189969",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "191218",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "193705",
+    "field": "JUSTINA"
+  },
+  {
+    "serial": "193880",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "196154",
+    "field": "JUSTINA"
+  },
+  {
+    "serial": "196629",
+    "field": "ST JOSEPH"
+  },
+  {
+    "serial": "196635",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "196908",
+    "field": "JUSTINA"
+  },
+  {
+    "serial": "197673",
+    "field": "JUSTINA"
+  },
+  {
+    "serial": "197721",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "198033",
+    "field": "JUSTINA"
+  },
+  {
+    "serial": "199164",
+    "field": "CHAMBLEE"
+  },
+  {
+    "serial": "199210",
+    "field": "PECAN LANDING, NORTH"
+  },
+  {
+    "serial": "199540",
+    "field": "JUSTINA"
+  },
+  {
+    "serial": "199651",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "200199",
+    "field": "LOCUST RIDGE"
+  },
+  {
+    "serial": "200530",
+    "field": "DELTA BRIDGE"
+  },
+  {
+    "serial": "200950",
+    "field": "PECAN LANDING, NORTH"
+  },
+  {
+    "serial": "204810",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "206647",
+    "field": "LAKE MARYDALE"
+  },
+  {
+    "serial": "206887",
+    "field": "PECAN LANDING, NORTH"
+  },
+  {
+    "serial": "207093",
+    "field": "LAKE MARYDALE"
+  },
+  {
+    "serial": "208233",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "208286",
+    "field": "LAKE MARYDALE"
+  },
+  {
+    "serial": "208672",
+    "field": "LAKE MARYDALE"
+  },
+  {
+    "serial": "208738",
+    "field": "LAKE MARYDALE"
+  },
+  {
+    "serial": "208892",
+    "field": "LAKE MARYDALE"
+  },
+  {
+    "serial": "209291",
+    "field": "LAKE MARYDALE"
+  },
+  {
+    "serial": "209483",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "210423",
+    "field": "LAKE FORMOSA"
+  },
+  {
+    "serial": "210609",
+    "field": "NEWLIGHT"
+  },
+  {
+    "serial": "210614",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "215420",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "215702",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "215707",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "215708",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "215787",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "215808",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "215822",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "217299",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "218383",
+    "field": "LAKE MARYDALE"
+  },
+  {
+    "serial": "218813",
+    "field": "WILSONIA"
+  },
+  {
+    "serial": "219222",
+    "field": "LAKE MARYDALE"
+  },
+  {
+    "serial": "220165",
+    "field": "LAKE BRUIN"
+  },
+  {
+    "serial": "220384",
+    "field": "LAKE BRUIN"
+  },
+  {
+    "serial": "231455",
+    "field": "JUSTINA"
+  },
+  {
+    "serial": "231514",
+    "field": "LAKE MARYDALE"
+  },
+  {
+    "serial": "235320",
+    "field": "JUSTINA"
+  },
+  {
+    "serial": "235773",
+    "field": "THREE BUCK BAYOU"
+  },
+  {
+    "serial": "236717",
+    "field": "HOLLY RIDGE"
+  },
+  {
+    "serial": "236943",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "238227",
+    "field": "THREE BUCK BAYOU"
+  },
+  {
+    "serial": "244563",
+    "field": "BUCKHORN"
+  },
+  {
+    "serial": "246999",
+    "field": "GLADE BAYOU"
+  },
+  {
+    "serial": "247394",
+    "field": "LAKE ST JOHN"
+  },
+  {
+    "serial": "970215",
+    "field": "BUCKHORN"
+  }
+]

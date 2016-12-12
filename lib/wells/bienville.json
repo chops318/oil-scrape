@@ -1,0 +1,6806 @@
+[
+  {
+    "serial": "1400",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "1429",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "1467",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "1653",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "2052",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "2727",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "3312",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "3314",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "3315",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "3697",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "3826",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "3932",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "4690",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "6894",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "8772",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "11241",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "12263",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "12404",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "13635",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "13820",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "13852",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "13928",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "13960",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "14163",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "14319",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "14626",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "14685",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "14907",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "15541",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "15637",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "15687",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "15689",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "15697",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "15875",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "15939",
+    "field": "SAILES"
+  },
+  {
+    "serial": "16056",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "17026",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "17284",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "18385",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "19429",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "19727",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "19774",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "21698",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "21887",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "22357",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "22496",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "22781",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "24184",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "24403",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "25784",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "27984",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "28182",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "28334",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "28544",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "29396",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "29406",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "29711",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "29971",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "30209",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "30538",
+    "field": "SAILES"
+  },
+  {
+    "serial": "30539",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "30583",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "30584",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "30743",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "30848",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "30891",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "30949",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "31074",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "31173",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "31445",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "31546",
+    "field": "ADA"
+  },
+  {
+    "serial": "31805",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "32347",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "32820",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "32847",
+    "field": "ADA"
+  },
+  {
+    "serial": "33407",
+    "field": "SALINE"
+  },
+  {
+    "serial": "33482",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "34393",
+    "field": "ADA"
+  },
+  {
+    "serial": "34394",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "34651",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "34886",
+    "field": "ADA"
+  },
+  {
+    "serial": "35531",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "35646",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "35681",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "35985",
+    "field": "ADA"
+  },
+  {
+    "serial": "36348",
+    "field": "ADA"
+  },
+  {
+    "serial": "36621",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "37165",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "37487",
+    "field": "ADA"
+  },
+  {
+    "serial": "37756",
+    "field": "ADA"
+  },
+  {
+    "serial": "38057",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "38180",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "38583",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "38614",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "39156",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "39652",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "39741",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "39865",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "40601",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "40618",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "40939",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "41638",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "41779",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "41899",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "41954",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "42376",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "42834",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "42850",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "43061",
+    "field": "ADA"
+  },
+  {
+    "serial": "43108",
+    "field": "ADA"
+  },
+  {
+    "serial": "43300",
+    "field": "ADA"
+  },
+  {
+    "serial": "43857",
+    "field": "ADA"
+  },
+  {
+    "serial": "44729",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "44927",
+    "field": "ADA"
+  },
+  {
+    "serial": "45316",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "45679",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "46249",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "46402",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "46452",
+    "field": "ADA"
+  },
+  {
+    "serial": "46453",
+    "field": "ADA"
+  },
+  {
+    "serial": "46534",
+    "field": "ADA"
+  },
+  {
+    "serial": "46767",
+    "field": "ADA"
+  },
+  {
+    "serial": "46795",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "47065",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "47242",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "47319",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "47416",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "47509",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "48034",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "48164",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "48470",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "48586",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "49375",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "50365",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "50939",
+    "field": "LIBERTY HILL"
+  },
+  {
+    "serial": "51320",
+    "field": "ADA"
+  },
+  {
+    "serial": "51924",
+    "field": "ADA"
+  },
+  {
+    "serial": "52802",
+    "field": "LIBERTY HILL"
+  },
+  {
+    "serial": "52895",
+    "field": "ADA"
+  },
+  {
+    "serial": "52933",
+    "field": "ADA"
+  },
+  {
+    "serial": "53006",
+    "field": "ADA"
+  },
+  {
+    "serial": "53542",
+    "field": "CYPRESS SPRINGS"
+  },
+  {
+    "serial": "55007",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "55571",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "56075",
+    "field": "CYPRESS SPRINGS"
+  },
+  {
+    "serial": "57570",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "57962",
+    "field": "LIBERTY HILL"
+  },
+  {
+    "serial": "58046",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "58612",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "58925",
+    "field": "ADA"
+  },
+  {
+    "serial": "58945",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "59025",
+    "field": "ADA"
+  },
+  {
+    "serial": "59247",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "59570",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "59871",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "60069",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "61209",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "61524",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "61789",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "61990",
+    "field": "DARLEY"
+  },
+  {
+    "serial": "62371",
+    "field": "DARLEY"
+  },
+  {
+    "serial": "63288",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "63345",
+    "field": "DARLEY"
+  },
+  {
+    "serial": "63407",
+    "field": "DARLEY"
+  },
+  {
+    "serial": "65090",
+    "field": "ADA"
+  },
+  {
+    "serial": "65430",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "65431",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "65958",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "65959",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "66241",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "66243",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "66367",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "66532",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "66951",
+    "field": "ADA"
+  },
+  {
+    "serial": "67400",
+    "field": "ADA"
+  },
+  {
+    "serial": "67583",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "67858",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "67958",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "68538",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "68760",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "69235",
+    "field": "ADA"
+  },
+  {
+    "serial": "69673",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "70325",
+    "field": "ADA"
+  },
+  {
+    "serial": "70449",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "71647",
+    "field": "ADA"
+  },
+  {
+    "serial": "72411",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "73374",
+    "field": "ADA"
+  },
+  {
+    "serial": "75573",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "76049",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "76694",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "77008",
+    "field": "ADA"
+  },
+  {
+    "serial": "77250",
+    "field": "ARCADIA DOME"
+  },
+  {
+    "serial": "77371",
+    "field": "ADA"
+  },
+  {
+    "serial": "77600",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "77829",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "78487",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "79052",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "79219",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "79438",
+    "field": "ARCADIA DOME"
+  },
+  {
+    "serial": "79500",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "79635",
+    "field": "ADA"
+  },
+  {
+    "serial": "79694",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "79794",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "80286",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "80396",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "81512",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "81735",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "82127",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "82541",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "84841",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "85153",
+    "field": "LIBERTY HILL"
+  },
+  {
+    "serial": "85853",
+    "field": "ADA"
+  },
+  {
+    "serial": "86314",
+    "field": "ADA"
+  },
+  {
+    "serial": "86367",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "86461",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "87289",
+    "field": "LIBERTY HILL"
+  },
+  {
+    "serial": "87919",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "93290",
+    "field": "ADA"
+  },
+  {
+    "serial": "94046",
+    "field": "ADA"
+  },
+  {
+    "serial": "94183",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "95537",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "96619",
+    "field": "LIBERTY HILL"
+  },
+  {
+    "serial": "98872",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "101801",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "103397",
+    "field": "ADA"
+  },
+  {
+    "serial": "103736",
+    "field": "LIBERTY HILL"
+  },
+  {
+    "serial": "104080",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "104908",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "106523",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "106625",
+    "field": "LIBERTY HILL"
+  },
+  {
+    "serial": "106881",
+    "field": "ADA"
+  },
+  {
+    "serial": "106883",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "107899",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "108434",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "109998",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "111370",
+    "field": "ADA"
+  },
+  {
+    "serial": "111790",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "112083",
+    "field": "ADA"
+  },
+  {
+    "serial": "112084",
+    "field": "ADA"
+  },
+  {
+    "serial": "112091",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "112823",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "112860",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "112879",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "112978",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "113005",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "114686",
+    "field": "ADA"
+  },
+  {
+    "serial": "115599",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "115892",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "116219",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "116367",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "117771",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "118815",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "119458",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "119480",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "121049",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "121071",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "121895",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "122262",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "123483",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "123499",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "123573",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "123639",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "124172",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "124187",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "124540",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "125749",
+    "field": "ADA"
+  },
+  {
+    "serial": "126166",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "127521",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "127934",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "128685",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "128776",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "128903",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "128905",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "128933",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "128934",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "129381",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "129464",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "129685",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "129780",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "129948",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "130258",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "130284",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "130419",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "131251",
+    "field": "ADA"
+  },
+  {
+    "serial": "131354",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "132049",
+    "field": "SAILES"
+  },
+  {
+    "serial": "132050",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "132163",
+    "field": "ADA"
+  },
+  {
+    "serial": "132478",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "132977",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "133029",
+    "field": "SAILES"
+  },
+  {
+    "serial": "133722",
+    "field": "SALINE"
+  },
+  {
+    "serial": "133898",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "134070",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "134138",
+    "field": "SAILES"
+  },
+  {
+    "serial": "134536",
+    "field": "JAMESTOWN"
+  },
+  {
+    "serial": "134612",
+    "field": "SAILES"
+  },
+  {
+    "serial": "134621",
+    "field": "SAILES"
+  },
+  {
+    "serial": "134664",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "134685",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "134712",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "134827",
+    "field": "SAILES"
+  },
+  {
+    "serial": "134961",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "135190",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "135451",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "135531",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "135564",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "135607",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "135717",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "135807",
+    "field": "SAILES"
+  },
+  {
+    "serial": "136057",
+    "field": "SAILES"
+  },
+  {
+    "serial": "136178",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "136259",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "136516",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "136581",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "136909",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "136956",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "137448",
+    "field": "SAILES"
+  },
+  {
+    "serial": "137523",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "138035",
+    "field": "SAILES"
+  },
+  {
+    "serial": "138062",
+    "field": "SAILES"
+  },
+  {
+    "serial": "138109",
+    "field": "SAILES"
+  },
+  {
+    "serial": "138158",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "138194",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "138195",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "138261",
+    "field": "SAILES"
+  },
+  {
+    "serial": "138381",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "138401",
+    "field": "SAILES"
+  },
+  {
+    "serial": "138506",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "138510",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "138617",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "138627",
+    "field": "SAILES"
+  },
+  {
+    "serial": "138628",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "138689",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "138808",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "138979",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "139175",
+    "field": "ADA"
+  },
+  {
+    "serial": "139483",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "139542",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "139810",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "140021",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "140098",
+    "field": "ADA"
+  },
+  {
+    "serial": "140135",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "140227",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "140327",
+    "field": "ADA"
+  },
+  {
+    "serial": "140487",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "140605",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "140764",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "140865",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "140867",
+    "field": "SAILES"
+  },
+  {
+    "serial": "141044",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "141193",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "141362",
+    "field": "SAILES"
+  },
+  {
+    "serial": "141452",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "141475",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "141662",
+    "field": "SAILES"
+  },
+  {
+    "serial": "141709",
+    "field": "SAILES"
+  },
+  {
+    "serial": "141752",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "142017",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "142056",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "142283",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "142373",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "142513",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "142585",
+    "field": "ADA"
+  },
+  {
+    "serial": "142662",
+    "field": "SAILES"
+  },
+  {
+    "serial": "142730",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "142803",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "142854",
+    "field": "SAILES"
+  },
+  {
+    "serial": "142913",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "142987",
+    "field": "SAILES"
+  },
+  {
+    "serial": "142988",
+    "field": "SAILES"
+  },
+  {
+    "serial": "143091",
+    "field": "SAILES"
+  },
+  {
+    "serial": "143095",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "143097",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "143323",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "143413",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "143475",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "143621",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "143651",
+    "field": "ADA"
+  },
+  {
+    "serial": "144225",
+    "field": "ADA"
+  },
+  {
+    "serial": "144243",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "144640",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "145027",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "145511",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "146035",
+    "field": "SAILES"
+  },
+  {
+    "serial": "146094",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "146136",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "146248",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "146444",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "146562",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "146719",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "146853",
+    "field": "JAMESTOWN"
+  },
+  {
+    "serial": "147112",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "147403",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "147780",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "147908",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "147962",
+    "field": "SAILES"
+  },
+  {
+    "serial": "148107",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "148133",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "148208",
+    "field": "CASTOR"
+  },
+  {
+    "serial": "148218",
+    "field": "CASTOR"
+  },
+  {
+    "serial": "148448",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "148642",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "148716",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "148910",
+    "field": "RINGGOLD"
+  },
+  {
+    "serial": "148979",
+    "field": "CASTOR"
+  },
+  {
+    "serial": "149116",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "149147",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "149457",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "149616",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "150249",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "150484",
+    "field": "ADA"
+  },
+  {
+    "serial": "150889",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "150891",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "150984",
+    "field": "CASTOR"
+  },
+  {
+    "serial": "151720",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "152614",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "152691",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "152870",
+    "field": "ADA"
+  },
+  {
+    "serial": "153320",
+    "field": "CASTOR"
+  },
+  {
+    "serial": "153866",
+    "field": "JAMESTOWN"
+  },
+  {
+    "serial": "154114",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "154339",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "155341",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "155786",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "156019",
+    "field": "JAMESTOWN"
+  },
+  {
+    "serial": "156244",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "156483",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "156689",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "156807",
+    "field": "CASTOR"
+  },
+  {
+    "serial": "157055",
+    "field": "ADA"
+  },
+  {
+    "serial": "157313",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "159361",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "159494",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "159807",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "160091",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "160818",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "161587",
+    "field": "ADA"
+  },
+  {
+    "serial": "162482",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "162770",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "162810",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "163203",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "163263",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "163458",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "163764",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "163824",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "164006",
+    "field": "JAMESTOWN"
+  },
+  {
+    "serial": "164939",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "165057",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "165219",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "165365",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "166084",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "166182",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "166672",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "167124",
+    "field": "ARCADIA"
+  },
+  {
+    "serial": "167125",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "167191",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "167210",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "167281",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "167382",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "167515",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "167582",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "168002",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "168133",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "168157",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "168347",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "168613",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "168637",
+    "field": "CASTOR"
+  },
+  {
+    "serial": "168780",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "168781",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "169575",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "169576",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "170116",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "170854",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "170855",
+    "field": "LIBERTY HILL"
+  },
+  {
+    "serial": "171355",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "171483",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "171819",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "171820",
+    "field": "SAILES"
+  },
+  {
+    "serial": "171908",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "171925",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "172185",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "172264",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "172491",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "172562",
+    "field": "SAILES"
+  },
+  {
+    "serial": "172570",
+    "field": "SAILES"
+  },
+  {
+    "serial": "172721",
+    "field": "LIBERTY HILL"
+  },
+  {
+    "serial": "173095",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "173117",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "173672",
+    "field": "CASTOR"
+  },
+  {
+    "serial": "174187",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "174358",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "174796",
+    "field": "ADA"
+  },
+  {
+    "serial": "174832",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "175064",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "175251",
+    "field": "SAILES"
+  },
+  {
+    "serial": "175592",
+    "field": "SAILES"
+  },
+  {
+    "serial": "175599",
+    "field": "ADA"
+  },
+  {
+    "serial": "176214",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "176251",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "176272",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "176774",
+    "field": "ADA"
+  },
+  {
+    "serial": "176903",
+    "field": "SAILES"
+  },
+  {
+    "serial": "177050",
+    "field": "ADA"
+  },
+  {
+    "serial": "177151",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "177311",
+    "field": "RINGGOLD, WEST"
+  },
+  {
+    "serial": "179288",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "179417",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "179519",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "179591",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "180757",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "182745",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "183505",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "183675",
+    "field": "SAILES"
+  },
+  {
+    "serial": "184345",
+    "field": "SAILES"
+  },
+  {
+    "serial": "184455",
+    "field": "SAILES"
+  },
+  {
+    "serial": "185531",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "185614",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "185615",
+    "field": "SAILES"
+  },
+  {
+    "serial": "186389",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "186466",
+    "field": "SAILES"
+  },
+  {
+    "serial": "186467",
+    "field": "SAILES"
+  },
+  {
+    "serial": "186938",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "190717",
+    "field": "ADA"
+  },
+  {
+    "serial": "192314",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "192822",
+    "field": "SAILES"
+  },
+  {
+    "serial": "193331",
+    "field": "SAILES"
+  },
+  {
+    "serial": "193570",
+    "field": "SAILES"
+  },
+  {
+    "serial": "195015",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "196422",
+    "field": "SAILES"
+  },
+  {
+    "serial": "196423",
+    "field": "SAILES"
+  },
+  {
+    "serial": "197039",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "198169",
+    "field": "SAILES"
+  },
+  {
+    "serial": "198762",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "198957",
+    "field": "SAILES"
+  },
+  {
+    "serial": "199414",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "199662",
+    "field": "SAILES"
+  },
+  {
+    "serial": "199939",
+    "field": "ADA"
+  },
+  {
+    "serial": "200294",
+    "field": "SAILES"
+  },
+  {
+    "serial": "201052",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "202065",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "203650",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "204062",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "204473",
+    "field": "ADA"
+  },
+  {
+    "serial": "204479",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "204833",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "205833",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "205837",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "206308",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "206341",
+    "field": "ADA"
+  },
+  {
+    "serial": "206342",
+    "field": "SAILES"
+  },
+  {
+    "serial": "206494",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "206601",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "206771",
+    "field": "SAILES"
+  },
+  {
+    "serial": "206850",
+    "field": "ADA"
+  },
+  {
+    "serial": "206992",
+    "field": "ADA"
+  },
+  {
+    "serial": "206993",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "207017",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "207039",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "207095",
+    "field": "ADA"
+  },
+  {
+    "serial": "207132",
+    "field": "SAILES"
+  },
+  {
+    "serial": "207189",
+    "field": "SAILES"
+  },
+  {
+    "serial": "207253",
+    "field": "ADA"
+  },
+  {
+    "serial": "207507",
+    "field": "SAILES"
+  },
+  {
+    "serial": "207508",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "207691",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "207803",
+    "field": "ADA"
+  },
+  {
+    "serial": "207868",
+    "field": "ADA"
+  },
+  {
+    "serial": "207928",
+    "field": "ADA"
+  },
+  {
+    "serial": "207942",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "208060",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "208187",
+    "field": "SAILES"
+  },
+  {
+    "serial": "208213",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "208214",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "208247",
+    "field": "SAILES"
+  },
+  {
+    "serial": "208295",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "208326",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "208426",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "208712",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "208721",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "208777",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "208925",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "208991",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "209105",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "209166",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "209207",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "209257",
+    "field": "ADA"
+  },
+  {
+    "serial": "209285",
+    "field": "CASTOR"
+  },
+  {
+    "serial": "209417",
+    "field": "SAILES"
+  },
+  {
+    "serial": "209462",
+    "field": "ADA"
+  },
+  {
+    "serial": "209505",
+    "field": "ADA"
+  },
+  {
+    "serial": "209512",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "209527",
+    "field": "ADA"
+  },
+  {
+    "serial": "209538",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "209559",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "209576",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "209595",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "209663",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "209676",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "209682",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "209732",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "209766",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "209784",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "209841",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "209857",
+    "field": "ADA"
+  },
+  {
+    "serial": "209890",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "209948",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "209964",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "210060",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "210061",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "210218",
+    "field": "SAILES"
+  },
+  {
+    "serial": "210355",
+    "field": "JAMESTOWN"
+  },
+  {
+    "serial": "210417",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "210429",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "210617",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "210619",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "210790",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "210856",
+    "field": "SAILES"
+  },
+  {
+    "serial": "210862",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "210884",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "210917",
+    "field": "SAILES"
+  },
+  {
+    "serial": "211075",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "211127",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "211155",
+    "field": "SAILES"
+  },
+  {
+    "serial": "211174",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "211197",
+    "field": "ADA"
+  },
+  {
+    "serial": "211222",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "211225",
+    "field": "ADA"
+  },
+  {
+    "serial": "211251",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "211255",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "211312",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "211412",
+    "field": "SAILES"
+  },
+  {
+    "serial": "211529",
+    "field": "ADA"
+  },
+  {
+    "serial": "211584",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "211597",
+    "field": "LIBERTY HILL"
+  },
+  {
+    "serial": "211598",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "211635",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "211636",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "211641",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "211829",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "211896",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "211945",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "211960",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "212009",
+    "field": "SAILES"
+  },
+  {
+    "serial": "212139",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "212157",
+    "field": "CASTOR"
+  },
+  {
+    "serial": "212429",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "212599",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "212686",
+    "field": "ADA"
+  },
+  {
+    "serial": "212696",
+    "field": "SAILES"
+  },
+  {
+    "serial": "212744",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "212758",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "212905",
+    "field": "ADA"
+  },
+  {
+    "serial": "212928",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "212942",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "212948",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "213055",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "213058",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "213079",
+    "field": "ADA"
+  },
+  {
+    "serial": "213089",
+    "field": "ADA"
+  },
+  {
+    "serial": "213172",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "213173",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "213185",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "213216",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "213259",
+    "field": "ADA"
+  },
+  {
+    "serial": "213350",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "213361",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "213441",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "213497",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "213690",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "213849",
+    "field": "ADA"
+  },
+  {
+    "serial": "213852",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "214138",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "214193",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "214233",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "214262",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "214265",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "214875",
+    "field": "ADA"
+  },
+  {
+    "serial": "214903",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "214992",
+    "field": "SAILES"
+  },
+  {
+    "serial": "215047",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "215118",
+    "field": "ADA"
+  },
+  {
+    "serial": "215150",
+    "field": "ADA"
+  },
+  {
+    "serial": "215218",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "215261",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "215471",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "215520",
+    "field": "SAILES"
+  },
+  {
+    "serial": "215570",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "215667",
+    "field": "ADA"
+  },
+  {
+    "serial": "215691",
+    "field": "ADA"
+  },
+  {
+    "serial": "215739",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "215769",
+    "field": "ADA"
+  },
+  {
+    "serial": "215959",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "215997",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "216004",
+    "field": "ADA"
+  },
+  {
+    "serial": "216307",
+    "field": "ADA"
+  },
+  {
+    "serial": "216598",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "216650",
+    "field": "SAILES"
+  },
+  {
+    "serial": "216686",
+    "field": "SAILES"
+  },
+  {
+    "serial": "216699",
+    "field": "SAILES"
+  },
+  {
+    "serial": "216762",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "216813",
+    "field": "SAILES"
+  },
+  {
+    "serial": "216831",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "216929",
+    "field": "ADA"
+  },
+  {
+    "serial": "216965",
+    "field": "SAILES"
+  },
+  {
+    "serial": "217058",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "217098",
+    "field": "SAILES"
+  },
+  {
+    "serial": "217112",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "217208",
+    "field": "ADA"
+  },
+  {
+    "serial": "217209",
+    "field": "ADA"
+  },
+  {
+    "serial": "217234",
+    "field": "SAILES"
+  },
+  {
+    "serial": "217244",
+    "field": "SAILES"
+  },
+  {
+    "serial": "217357",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "217382",
+    "field": "ADA"
+  },
+  {
+    "serial": "217389",
+    "field": "ADA"
+  },
+  {
+    "serial": "217404",
+    "field": "SAILES"
+  },
+  {
+    "serial": "217524",
+    "field": "ADA"
+  },
+  {
+    "serial": "217542",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "217543",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "217553",
+    "field": "SAILES"
+  },
+  {
+    "serial": "217625",
+    "field": "SAILES"
+  },
+  {
+    "serial": "217631",
+    "field": "ADA"
+  },
+  {
+    "serial": "217639",
+    "field": "SAILES"
+  },
+  {
+    "serial": "217676",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "217776",
+    "field": "SAILES"
+  },
+  {
+    "serial": "217821",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "217822",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "217823",
+    "field": "SAILES"
+  },
+  {
+    "serial": "217953",
+    "field": "SAILES"
+  },
+  {
+    "serial": "217961",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "217981",
+    "field": "SAILES"
+  },
+  {
+    "serial": "218071",
+    "field": "SAILES"
+  },
+  {
+    "serial": "218101",
+    "field": "SAILES"
+  },
+  {
+    "serial": "218133",
+    "field": "SAILES"
+  },
+  {
+    "serial": "218140",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "218260",
+    "field": "ADA"
+  },
+  {
+    "serial": "218266",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "218313",
+    "field": "SAILES"
+  },
+  {
+    "serial": "218349",
+    "field": "SAILES"
+  },
+  {
+    "serial": "218409",
+    "field": "ADA"
+  },
+  {
+    "serial": "218417",
+    "field": "ADA"
+  },
+  {
+    "serial": "218418",
+    "field": "ADA"
+  },
+  {
+    "serial": "218419",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "218428",
+    "field": "SAILES"
+  },
+  {
+    "serial": "218447",
+    "field": "ADA"
+  },
+  {
+    "serial": "218513",
+    "field": "SAILES"
+  },
+  {
+    "serial": "218534",
+    "field": "SAILES"
+  },
+  {
+    "serial": "218588",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "218600",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "218601",
+    "field": "SAILES"
+  },
+  {
+    "serial": "218603",
+    "field": "SAILES"
+  },
+  {
+    "serial": "218858",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "218908",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "218909",
+    "field": "SAILES"
+  },
+  {
+    "serial": "218987",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219000",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219052",
+    "field": "SAILES"
+  },
+  {
+    "serial": "219101",
+    "field": "SAILES"
+  },
+  {
+    "serial": "219113",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219114",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219115",
+    "field": "SAILES"
+  },
+  {
+    "serial": "219116",
+    "field": "SAILES"
+  },
+  {
+    "serial": "219141",
+    "field": "ADA"
+  },
+  {
+    "serial": "219199",
+    "field": "ADA"
+  },
+  {
+    "serial": "219236",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219279",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219287",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219354",
+    "field": "SAILES"
+  },
+  {
+    "serial": "219431",
+    "field": "SAILES"
+  },
+  {
+    "serial": "219440",
+    "field": "SAILES"
+  },
+  {
+    "serial": "219464",
+    "field": "SAILES"
+  },
+  {
+    "serial": "219474",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219507",
+    "field": "ADA"
+  },
+  {
+    "serial": "219529",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219530",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219531",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219575",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219596",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219610",
+    "field": "SAILES"
+  },
+  {
+    "serial": "219614",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219638",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219643",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "219644",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219680",
+    "field": "SAILES"
+  },
+  {
+    "serial": "219720",
+    "field": "SAILES"
+  },
+  {
+    "serial": "219722",
+    "field": "SAILES"
+  },
+  {
+    "serial": "219811",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "219830",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "219840",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219841",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219912",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "219935",
+    "field": "SAILES"
+  },
+  {
+    "serial": "219943",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219947",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "219955",
+    "field": "ADA"
+  },
+  {
+    "serial": "219956",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "219980",
+    "field": "SAILES"
+  },
+  {
+    "serial": "219991",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220012",
+    "field": "ADA"
+  },
+  {
+    "serial": "220024",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220025",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220066",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220076",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220099",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220107",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220175",
+    "field": "SAILES"
+  },
+  {
+    "serial": "220176",
+    "field": "SAILES"
+  },
+  {
+    "serial": "220191",
+    "field": "ADA"
+  },
+  {
+    "serial": "220206",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "220207",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "220277",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220298",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220299",
+    "field": "SAILES"
+  },
+  {
+    "serial": "220300",
+    "field": "SAILES"
+  },
+  {
+    "serial": "220301",
+    "field": "SAILES"
+  },
+  {
+    "serial": "220304",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220330",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "220348",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220349",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220452",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220461",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "220490",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220507",
+    "field": "SAILES"
+  },
+  {
+    "serial": "220517",
+    "field": "SAILES"
+  },
+  {
+    "serial": "220593",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220652",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220659",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220690",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "220691",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220733",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "220734",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220735",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220762",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220767",
+    "field": "SAILES"
+  },
+  {
+    "serial": "220783",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "220927",
+    "field": "ADA"
+  },
+  {
+    "serial": "220935",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "220948",
+    "field": "SAILES"
+  },
+  {
+    "serial": "220950",
+    "field": "SAILES"
+  },
+  {
+    "serial": "221005",
+    "field": "ADA"
+  },
+  {
+    "serial": "221006",
+    "field": "ADA"
+  },
+  {
+    "serial": "221034",
+    "field": "SAILES"
+  },
+  {
+    "serial": "221092",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "221093",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "221121",
+    "field": "SAILES"
+  },
+  {
+    "serial": "221122",
+    "field": "SAILES"
+  },
+  {
+    "serial": "221124",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "221143",
+    "field": "SAILES"
+  },
+  {
+    "serial": "221195",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "221274",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "221285",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "221334",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "221335",
+    "field": "SAILES"
+  },
+  {
+    "serial": "221338",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "221340",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "221377",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "221397",
+    "field": "SAILES"
+  },
+  {
+    "serial": "221480",
+    "field": "ADA"
+  },
+  {
+    "serial": "221487",
+    "field": "SAILES"
+  },
+  {
+    "serial": "221507",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "221526",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "221541",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "221553",
+    "field": "SAILES"
+  },
+  {
+    "serial": "221637",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "221719",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "221747",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "221756",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "221757",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "221758",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "221777",
+    "field": "SAILES"
+  },
+  {
+    "serial": "221793",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "221798",
+    "field": "ADA"
+  },
+  {
+    "serial": "221854",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "221894",
+    "field": "SAILES"
+  },
+  {
+    "serial": "221906",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "221907",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "221927",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "221958",
+    "field": "SAILES"
+  },
+  {
+    "serial": "222110",
+    "field": "SAILES"
+  },
+  {
+    "serial": "222111",
+    "field": "SAILES"
+  },
+  {
+    "serial": "222125",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "222144",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "222193",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "222220",
+    "field": "HARPER"
+  },
+  {
+    "serial": "222221",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "222223",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "222224",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "222235",
+    "field": "SAILES"
+  },
+  {
+    "serial": "222242",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "222286",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "222304",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "222322",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "222380",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "222404",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "222427",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "222435",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "222436",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "222441",
+    "field": "ADA"
+  },
+  {
+    "serial": "222457",
+    "field": "ADA"
+  },
+  {
+    "serial": "222485",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "222498",
+    "field": "ADA"
+  },
+  {
+    "serial": "222511",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "222661",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "222716",
+    "field": "ADA"
+  },
+  {
+    "serial": "222731",
+    "field": "ADA"
+  },
+  {
+    "serial": "222748",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "222782",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "222790",
+    "field": "HARPER"
+  },
+  {
+    "serial": "222798",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "222847",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "222860",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "222887",
+    "field": "ADA"
+  },
+  {
+    "serial": "222900",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "222918",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "222948",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "222949",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "222950",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "222972",
+    "field": "GIBSLAND"
+  },
+  {
+    "serial": "222973",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "223009",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "223016",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "223029",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "223031",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "223048",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "223067",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "223077",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "223116",
+    "field": "ADA"
+  },
+  {
+    "serial": "223155",
+    "field": "ADA"
+  },
+  {
+    "serial": "223158",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "223169",
+    "field": "ADA"
+  },
+  {
+    "serial": "223173",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "223213",
+    "field": "ADA"
+  },
+  {
+    "serial": "223284",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "223298",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "223304",
+    "field": "ADA"
+  },
+  {
+    "serial": "223334",
+    "field": "ADA"
+  },
+  {
+    "serial": "223402",
+    "field": "SAILES"
+  },
+  {
+    "serial": "223421",
+    "field": "SAILES"
+  },
+  {
+    "serial": "223426",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "223441",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "223484",
+    "field": "SAILES"
+  },
+  {
+    "serial": "223491",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "223524",
+    "field": "ADA"
+  },
+  {
+    "serial": "223554",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "223567",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "223589",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "223631",
+    "field": "SAILES"
+  },
+  {
+    "serial": "223645",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "223661",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "223733",
+    "field": "SAILES"
+  },
+  {
+    "serial": "223762",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "223812",
+    "field": "ADA"
+  },
+  {
+    "serial": "223814",
+    "field": "ADA"
+  },
+  {
+    "serial": "223817",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "223863",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "223886",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "223900",
+    "field": "SAILES"
+  },
+  {
+    "serial": "223901",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "223905",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "223928",
+    "field": "SAILES"
+  },
+  {
+    "serial": "223943",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "223972",
+    "field": "SAILES"
+  },
+  {
+    "serial": "223978",
+    "field": "SAILES"
+  },
+  {
+    "serial": "224017",
+    "field": "ADA"
+  },
+  {
+    "serial": "224066",
+    "field": "ADA"
+  },
+  {
+    "serial": "224081",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "224094",
+    "field": "SAILES"
+  },
+  {
+    "serial": "224149",
+    "field": "SAILES"
+  },
+  {
+    "serial": "224150",
+    "field": "SAILES"
+  },
+  {
+    "serial": "224160",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "224167",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "224300",
+    "field": "SAILES"
+  },
+  {
+    "serial": "224353",
+    "field": "SAILES"
+  },
+  {
+    "serial": "224360",
+    "field": "ADA"
+  },
+  {
+    "serial": "224361",
+    "field": "ADA"
+  },
+  {
+    "serial": "224363",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "224400",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "224487",
+    "field": "SAILES"
+  },
+  {
+    "serial": "224516",
+    "field": "SAILES"
+  },
+  {
+    "serial": "224585",
+    "field": "SAILES"
+  },
+  {
+    "serial": "224593",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "224690",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "224701",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "224721",
+    "field": "ADA"
+  },
+  {
+    "serial": "224783",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "224807",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "224875",
+    "field": "SAILES"
+  },
+  {
+    "serial": "224890",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "224906",
+    "field": "SAILES"
+  },
+  {
+    "serial": "224977",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "224985",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "225040",
+    "field": "SAILES"
+  },
+  {
+    "serial": "225044",
+    "field": "SAILES"
+  },
+  {
+    "serial": "225049",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "225053",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "225054",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "225151",
+    "field": "ADA"
+  },
+  {
+    "serial": "225152",
+    "field": "SAILES"
+  },
+  {
+    "serial": "225155",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "225166",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "225169",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "225190",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "225264",
+    "field": "SAILES"
+  },
+  {
+    "serial": "225267",
+    "field": "ADA"
+  },
+  {
+    "serial": "225272",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "225368",
+    "field": "SAILES"
+  },
+  {
+    "serial": "225374",
+    "field": "SAILES"
+  },
+  {
+    "serial": "225380",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "225424",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "225432",
+    "field": "ADA"
+  },
+  {
+    "serial": "225447",
+    "field": "SAILES"
+  },
+  {
+    "serial": "225452",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "225464",
+    "field": "ADA"
+  },
+  {
+    "serial": "225503",
+    "field": "SAILES"
+  },
+  {
+    "serial": "225507",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "225508",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "225535",
+    "field": "SAILES"
+  },
+  {
+    "serial": "225551",
+    "field": "SAILES"
+  },
+  {
+    "serial": "225557",
+    "field": "ADA"
+  },
+  {
+    "serial": "225568",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "225584",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "225620",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "225630",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "225637",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "225649",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "225658",
+    "field": "SAILES"
+  },
+  {
+    "serial": "225684",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "225699",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "225709",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "225733",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "225790",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "225792",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "225796",
+    "field": "SAILES"
+  },
+  {
+    "serial": "225836",
+    "field": "SAILES"
+  },
+  {
+    "serial": "225847",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "225851",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "225858",
+    "field": "SAILES"
+  },
+  {
+    "serial": "225863",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "225903",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "225940",
+    "field": "ADA"
+  },
+  {
+    "serial": "225946",
+    "field": "SAILES"
+  },
+  {
+    "serial": "225947",
+    "field": "SAILES"
+  },
+  {
+    "serial": "226003",
+    "field": "ADA"
+  },
+  {
+    "serial": "226059",
+    "field": "SAILES"
+  },
+  {
+    "serial": "226068",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "226120",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "226145",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "226146",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "226152",
+    "field": "SAILES"
+  },
+  {
+    "serial": "226153",
+    "field": "SAILES"
+  },
+  {
+    "serial": "226191",
+    "field": "ADA"
+  },
+  {
+    "serial": "226208",
+    "field": "ADA"
+  },
+  {
+    "serial": "226322",
+    "field": "SAILES"
+  },
+  {
+    "serial": "226360",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "226365",
+    "field": "SAILES"
+  },
+  {
+    "serial": "226396",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "226412",
+    "field": "ADA"
+  },
+  {
+    "serial": "226418",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "226422",
+    "field": "SAILES"
+  },
+  {
+    "serial": "226431",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "226518",
+    "field": "SAILES"
+  },
+  {
+    "serial": "226528",
+    "field": "SAILES"
+  },
+  {
+    "serial": "226543",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "226624",
+    "field": "SAILES"
+  },
+  {
+    "serial": "226652",
+    "field": "ADA"
+  },
+  {
+    "serial": "226662",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "226668",
+    "field": "SAILES"
+  },
+  {
+    "serial": "226712",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "226732",
+    "field": "SAILES"
+  },
+  {
+    "serial": "226734",
+    "field": "ADA"
+  },
+  {
+    "serial": "226810",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "226812",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "226818",
+    "field": "SAILES"
+  },
+  {
+    "serial": "226824",
+    "field": "SAILES"
+  },
+  {
+    "serial": "226889",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "226939",
+    "field": "ADA"
+  },
+  {
+    "serial": "226981",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "226983",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "227020",
+    "field": "KINGS DOME"
+  },
+  {
+    "serial": "227070",
+    "field": "SAILES"
+  },
+  {
+    "serial": "227121",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "227137",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "227148",
+    "field": "SAILES"
+  },
+  {
+    "serial": "227184",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "227192",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "227245",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "227255",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "227285",
+    "field": "SAILES"
+  },
+  {
+    "serial": "227369",
+    "field": "ADA"
+  },
+  {
+    "serial": "227370",
+    "field": "ADA"
+  },
+  {
+    "serial": "227401",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "227426",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "227442",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "227491",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "227520",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "227536",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "227616",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "227647",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "227794",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "227954",
+    "field": "ADA"
+  },
+  {
+    "serial": "227974",
+    "field": "KINGS DOME"
+  },
+  {
+    "serial": "227975",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "228175",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "228201",
+    "field": "SAILES"
+  },
+  {
+    "serial": "228315",
+    "field": "SAILES"
+  },
+  {
+    "serial": "228344",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "228352",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "228354",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "228415",
+    "field": "SAILES"
+  },
+  {
+    "serial": "228547",
+    "field": "SAILES"
+  },
+  {
+    "serial": "228575",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "228700",
+    "field": "ADA"
+  },
+  {
+    "serial": "228711",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "228734",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "228745",
+    "field": "CASTOR"
+  },
+  {
+    "serial": "228749",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "228803",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "228812",
+    "field": "ADA"
+  },
+  {
+    "serial": "228826",
+    "field": "ADA"
+  },
+  {
+    "serial": "228831",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "228838",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "228845",
+    "field": "SAILES"
+  },
+  {
+    "serial": "228884",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "228975",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "229169",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "229216",
+    "field": "ADA"
+  },
+  {
+    "serial": "229274",
+    "field": "SAILES"
+  },
+  {
+    "serial": "229288",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "229339",
+    "field": "ADA"
+  },
+  {
+    "serial": "229348",
+    "field": "ADA"
+  },
+  {
+    "serial": "229386",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "229424",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "229605",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "229673",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "229725",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "229735",
+    "field": "SAILES"
+  },
+  {
+    "serial": "229800",
+    "field": "DANVILLE"
+  },
+  {
+    "serial": "229846",
+    "field": "SAILES"
+  },
+  {
+    "serial": "229939",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "230028",
+    "field": "SAILES"
+  },
+  {
+    "serial": "230086",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "230124",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "230144",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "230149",
+    "field": "ADA"
+  },
+  {
+    "serial": "230182",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "230194",
+    "field": "ADA"
+  },
+  {
+    "serial": "230261",
+    "field": "SAILES"
+  },
+  {
+    "serial": "230263",
+    "field": "CASTOR"
+  },
+  {
+    "serial": "230386",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "230448",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "230486",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "230541",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "230700",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "230735",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "230739",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "230779",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "230800",
+    "field": "SAILES"
+  },
+  {
+    "serial": "230842",
+    "field": "ADA"
+  },
+  {
+    "serial": "230856",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "230859",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "230877",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "230915",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "230936",
+    "field": "ADA"
+  },
+  {
+    "serial": "230991",
+    "field": "SAILES"
+  },
+  {
+    "serial": "231045",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "231046",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "231148",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "231188",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "231203",
+    "field": "SAILES"
+  },
+  {
+    "serial": "231321",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "231323",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "231373",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "231384",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "231408",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "231460",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "231483",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "231607",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "231661",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "231676",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "231690",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "231691",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "231709",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "231747",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "231778",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "231838",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "231986",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "231994",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "232087",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "232178",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "232179",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "232180",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "232190",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "232255",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "232291",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "232294",
+    "field": "ADA"
+  },
+  {
+    "serial": "232297",
+    "field": "ADA"
+  },
+  {
+    "serial": "232308",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "232348",
+    "field": "KINGS DOME"
+  },
+  {
+    "serial": "232407",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "232486",
+    "field": "ADA"
+  },
+  {
+    "serial": "232500",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "232570",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "232571",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "232621",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "232622",
+    "field": "KINGS DOME"
+  },
+  {
+    "serial": "232633",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "232634",
+    "field": "ADA"
+  },
+  {
+    "serial": "232728",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "232770",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "232798",
+    "field": "CASTOR"
+  },
+  {
+    "serial": "232809",
+    "field": "ADA"
+  },
+  {
+    "serial": "232814",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "232824",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "232854",
+    "field": "LIBERTY HILL"
+  },
+  {
+    "serial": "232961",
+    "field": "ADA"
+  },
+  {
+    "serial": "232993",
+    "field": "CASTOR"
+  },
+  {
+    "serial": "233023",
+    "field": "ADA"
+  },
+  {
+    "serial": "233024",
+    "field": "ADA"
+  },
+  {
+    "serial": "233025",
+    "field": "ADA"
+  },
+  {
+    "serial": "233040",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "233068",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "233070",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "233114",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "233179",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "233180",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "233222",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "233254",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "233259",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "233313",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "233314",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "233359",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "233388",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "233411",
+    "field": "ADA"
+  },
+  {
+    "serial": "233577",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "233609",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "233612",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "233638",
+    "field": "ADA"
+  },
+  {
+    "serial": "233709",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "233729",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "233730",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "233738",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "233773",
+    "field": "ADA"
+  },
+  {
+    "serial": "233862",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "233873",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "233903",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "233923",
+    "field": "ADA"
+  },
+  {
+    "serial": "233941",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "233942",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "233950",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "233951",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "233981",
+    "field": "KINGS DOME"
+  },
+  {
+    "serial": "233989",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "234074",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "234136",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "234142",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "234178",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "234233",
+    "field": "ADA"
+  },
+  {
+    "serial": "234284",
+    "field": "ADA"
+  },
+  {
+    "serial": "234322",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "234353",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "234399",
+    "field": "KINGS DOME"
+  },
+  {
+    "serial": "234400",
+    "field": "KINGS DOME"
+  },
+  {
+    "serial": "234435",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "234466",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "234472",
+    "field": "ADA"
+  },
+  {
+    "serial": "234473",
+    "field": "ADA"
+  },
+  {
+    "serial": "234476",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "234498",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "234519",
+    "field": "ADA"
+  },
+  {
+    "serial": "234520",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "234521",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "234626",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "234632",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "234661",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "234665",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "234672",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "234698",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "234714",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "234799",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "234820",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "234821",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "234830",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "234850",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "234894",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "234895",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "234899",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "234902",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "234933",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "234973",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "234988",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "235010",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235038",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "235053",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "235055",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "235079",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "235125",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235132",
+    "field": "ADA"
+  },
+  {
+    "serial": "235165",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "235166",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "235170",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235183",
+    "field": "ADA"
+  },
+  {
+    "serial": "235185",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "235217",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235297",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "235359",
+    "field": "JAMESTOWN"
+  },
+  {
+    "serial": "235378",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235380",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "235386",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235387",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235418",
+    "field": "ADA"
+  },
+  {
+    "serial": "235421",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "235422",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "235423",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "235440",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235460",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235461",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235462",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235544",
+    "field": "ADA"
+  },
+  {
+    "serial": "235572",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235573",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235593",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235633",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "235636",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "235650",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235651",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235652",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235653",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235659",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235701",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "235708",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235725",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235726",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235751",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235776",
+    "field": "ADA"
+  },
+  {
+    "serial": "235785",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "235791",
+    "field": "SAILES"
+  },
+  {
+    "serial": "235813",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "235818",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "235828",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235853",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "235857",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235858",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235859",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235881",
+    "field": "SAILES"
+  },
+  {
+    "serial": "235890",
+    "field": "SAILES"
+  },
+  {
+    "serial": "235912",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235916",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "235917",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "235951",
+    "field": "ADA"
+  },
+  {
+    "serial": "235952",
+    "field": "ADA"
+  },
+  {
+    "serial": "235967",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236013",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "236054",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "236085",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "236090",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236091",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236169",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "236172",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236180",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "236187",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236199",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "236200",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "236205",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236212",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236252",
+    "field": "ADA"
+  },
+  {
+    "serial": "236274",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "236276",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "236277",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "236278",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236279",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236280",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236282",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236298",
+    "field": "ADA"
+  },
+  {
+    "serial": "236301",
+    "field": "ADA"
+  },
+  {
+    "serial": "236335",
+    "field": "SAILES"
+  },
+  {
+    "serial": "236357",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "236358",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236385",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236433",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236456",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "236556",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236557",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236645",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236666",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "236695",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "236720",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236724",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "236785",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "236840",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "236870",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "236903",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "236948",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "236951",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "236959",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "236960",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "237041",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "237085",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "237088",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "237095",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "237207",
+    "field": "LIBERTY HILL"
+  },
+  {
+    "serial": "237211",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "237216",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "237235",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "237285",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "237300",
+    "field": "LIBERTY HILL"
+  },
+  {
+    "serial": "237302",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "237310",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "237314",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "237320",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "237322",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "237323",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "237324",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "237370",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "237454",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "237460",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "237495",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "237500",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "237510",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "237522",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "237523",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "237592",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "237689",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "237693",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "237694",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "237699",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "237707",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "237752",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "237753",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "237823",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "237849",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "237861",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "237864",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "237870",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "237880",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "237893",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "237958",
+    "field": "ADA"
+  },
+  {
+    "serial": "237964",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "237965",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "237978",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "237980",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "237981",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238031",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238032",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238035",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238037",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238104",
+    "field": "LIBERTY HILL"
+  },
+  {
+    "serial": "238106",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "238120",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238136",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "238158",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238159",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238169",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238201",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "238202",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238267",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "238271",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238272",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238273",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238274",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238275",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238276",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238282",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "238283",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "238340",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238390",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238425",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "238517",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "238557",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238558",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238571",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "238577",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238578",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238616",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238644",
+    "field": "LIBERTY HILL"
+  },
+  {
+    "serial": "238648",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "238649",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "238668",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "238669",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "238670",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "238729",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238775",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238784",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238850",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238851",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "238916",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "239015",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "239039",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239133",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "239185",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "239195",
+    "field": "ADA"
+  },
+  {
+    "serial": "239196",
+    "field": "ADA"
+  },
+  {
+    "serial": "239197",
+    "field": "ADA"
+  },
+  {
+    "serial": "239234",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "239239",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239261",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239262",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239263",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239264",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "239303",
+    "field": "ADA"
+  },
+  {
+    "serial": "239304",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "239325",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239326",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239340",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239348",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "239356",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239357",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239361",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239375",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239404",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "239419",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "239420",
+    "field": "SAILES"
+  },
+  {
+    "serial": "239424",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239431",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "239444",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "239449",
+    "field": "SAILES"
+  },
+  {
+    "serial": "239459",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239491",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239492",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239493",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "239509",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239511",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239520",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "239527",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "239550",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239595",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "239602",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239627",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239628",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239648",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "239651",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239652",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239653",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239669",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239694",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239695",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239720",
+    "field": "ARCADIA, WEST"
+  },
+  {
+    "serial": "239751",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "239836",
+    "field": "SAILES"
+  },
+  {
+    "serial": "239846",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "239899",
+    "field": "ADA"
+  },
+  {
+    "serial": "239920",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "239957",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "239970",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "240038",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240039",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240064",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240074",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240079",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240104",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "240115",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "240128",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "240139",
+    "field": "ADA"
+  },
+  {
+    "serial": "240174",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240214",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "240239",
+    "field": "ADA"
+  },
+  {
+    "serial": "240262",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240301",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240318",
+    "field": "ADA"
+  },
+  {
+    "serial": "240325",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "240345",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "240380",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "240439",
+    "field": "ADA"
+  },
+  {
+    "serial": "240443",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240449",
+    "field": "ADA"
+  },
+  {
+    "serial": "240457",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "240472",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240486",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240497",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "240498",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "240516",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240524",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240583",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "240593",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240594",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240595",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240615",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "240619",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "240621",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "240639",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240712",
+    "field": "ADA"
+  },
+  {
+    "serial": "240732",
+    "field": "BRYCELAND"
+  },
+  {
+    "serial": "240778",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240795",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240841",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "240878",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240882",
+    "field": "ADA"
+  },
+  {
+    "serial": "240911",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "240923",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "240926",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "240967",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240977",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240985",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "240987",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "240996",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241014",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "241016",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "241026",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241089",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241094",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241133",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241158",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241162",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241176",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "241189",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "241198",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "241203",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241204",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241248",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241262",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241293",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241315",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241332",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241374",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "241388",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241399",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241417",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "241435",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "241438",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241452",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "241453",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241454",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "241639",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "241642",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "241644",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241645",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241679",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "241680",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "241681",
+    "field": "SWAN LAKE"
+  },
+  {
+    "serial": "241706",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "241742",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "241760",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "241827",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "241850",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "241866",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "241867",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "241880",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "241902",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "241922",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "241923",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "241924",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "241964",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "242024",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "242025",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "242073",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "242108",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "242109",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "242143",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "242158",
+    "field": "DRISCOLL"
+  },
+  {
+    "serial": "242159",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "242179",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "242186",
+    "field": "SAILES"
+  },
+  {
+    "serial": "242187",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "242247",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "242249",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "242294",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "242355",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "242360",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "242430",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "242502",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "242583",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "242593",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "242613",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "242630",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "242706",
+    "field": "SAILES"
+  },
+  {
+    "serial": "242711",
+    "field": "SAILES"
+  },
+  {
+    "serial": "242760",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "242790",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "242791",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "242792",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "242793",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "242794",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "242795",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "242816",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "242817",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "242818",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "242819",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "242821",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "242843",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "242844",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "242845",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "243002",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "243037",
+    "field": "SAILES"
+  },
+  {
+    "serial": "243041",
+    "field": "WOODARDVILLE"
+  },
+  {
+    "serial": "243363",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "243364",
+    "field": "ALABAMA BEND"
+  },
+  {
+    "serial": "243674",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "243695",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "243696",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "244234",
+    "field": "JAMESTOWN"
+  },
+  {
+    "serial": "244731",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "245125",
+    "field": "BEAR CREEK"
+  },
+  {
+    "serial": "246209",
+    "field": "TOPY CREEK"
+  },
+  {
+    "serial": "246573",
+    "field": "LUCKY"
+  },
+  {
+    "serial": "247138",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "247151",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "247340",
+    "field": "LAKE BISTINEAU"
+  },
+  {
+    "serial": "248181",
+    "field": "SWAN LAKE"
+  },
+  {
+    "serial": "249165",
+    "field": "BRYCELAND, WEST"
+  },
+  {
+    "serial": "970478",
+    "field": "ARCADIA DOME"
+  },
+  {
+    "serial": "970479",
+    "field": "ARCADIA DOME"
+  },
+  {
+    "serial": "970480",
+    "field": "ARCADIA"
+  }
+]

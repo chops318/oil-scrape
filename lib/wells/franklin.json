@@ -1,0 +1,886 @@
+[
+  {
+    "serial": "10448",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "10577",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "16338",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "30128",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "30870",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "31079",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "31101",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "31191",
+    "field": "DELHI"
+  },
+  {
+    "serial": "31318",
+    "field": "DELHI"
+  },
+  {
+    "serial": "31414",
+    "field": "DELHI"
+  },
+  {
+    "serial": "31550",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "31662",
+    "field": "DELHI"
+  },
+  {
+    "serial": "31665",
+    "field": "DELHI"
+  },
+  {
+    "serial": "31699",
+    "field": "DELHI"
+  },
+  {
+    "serial": "31871",
+    "field": "DELHI"
+  },
+  {
+    "serial": "31872",
+    "field": "DELHI"
+  },
+  {
+    "serial": "31941",
+    "field": "DELHI"
+  },
+  {
+    "serial": "31966",
+    "field": "DELHI"
+  },
+  {
+    "serial": "31979",
+    "field": "DELHI"
+  },
+  {
+    "serial": "32040",
+    "field": "DELHI"
+  },
+  {
+    "serial": "32041",
+    "field": "DELHI"
+  },
+  {
+    "serial": "32051",
+    "field": "DELHI"
+  },
+  {
+    "serial": "32054",
+    "field": "DELHI"
+  },
+  {
+    "serial": "32117",
+    "field": "DELHI"
+  },
+  {
+    "serial": "32195",
+    "field": "DELHI"
+  },
+  {
+    "serial": "32219",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "32223",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "32397",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "32414",
+    "field": "DELHI"
+  },
+  {
+    "serial": "32444",
+    "field": "DELHI"
+  },
+  {
+    "serial": "32448",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "32602",
+    "field": "DELHI"
+  },
+  {
+    "serial": "32650",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "32679",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "32829",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "33057",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "33073",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "33266",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "33499",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "34128",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "34736",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "34737",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "34804",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "34955",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "35139",
+    "field": "DELHI"
+  },
+  {
+    "serial": "35156",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "35227",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "35318",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "35961",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "36748",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "36811",
+    "field": "DELHI"
+  },
+  {
+    "serial": "36974",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "36975",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "38669",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "43338",
+    "field": "BIG CREEK"
+  },
+  {
+    "serial": "49578",
+    "field": "DELHI"
+  },
+  {
+    "serial": "53980",
+    "field": "DELHI"
+  },
+  {
+    "serial": "54513",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "55137",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "55763",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "56097",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "56141",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "56369",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "56636",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "56640",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "56685",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "56702",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "56841",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "57068",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "57755",
+    "field": "WISNER"
+  },
+  {
+    "serial": "57790",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "58086",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "58109",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "58337",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "58690",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "59227",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "59306",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "59828",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "60368",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "60644",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "61062",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "61128",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "61677",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "61831",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "61986",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "62202",
+    "field": "WISNER"
+  },
+  {
+    "serial": "62469",
+    "field": "TURKEY CREEK"
+  },
+  {
+    "serial": "62937",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "63167",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "63216",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "63322",
+    "field": "BASKINTON, WEST"
+  },
+  {
+    "serial": "63419",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "63456",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "64199",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "64300",
+    "field": "TURKEY CREEK"
+  },
+  {
+    "serial": "64574",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "64576",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "64874",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "64905",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "65024",
+    "field": "TURKEY CREEK"
+  },
+  {
+    "serial": "65134",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "65998",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "66523",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "66659",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "67736",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "67817",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "68006",
+    "field": "BASKINTON, WEST"
+  },
+  {
+    "serial": "68477",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "68817",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "69001",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "69332",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "70428",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "70649",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "71132",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "71150",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "72286",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "72464",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "74146",
+    "field": "MANGHAM"
+  },
+  {
+    "serial": "74310",
+    "field": "WINNSBORO"
+  },
+  {
+    "serial": "80019",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "83833",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "84849",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "85346",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "87358",
+    "field": "BIG CREEK"
+  },
+  {
+    "serial": "87984",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "90216",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "90737",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "91722",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "103196",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "108139",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "109858",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "110378",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "112433",
+    "field": "LONGVIEW"
+  },
+  {
+    "serial": "114691",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "116598",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "119100",
+    "field": "EGYPT FERRY"
+  },
+  {
+    "serial": "121462",
+    "field": "EGYPT FERRY"
+  },
+  {
+    "serial": "122004",
+    "field": "EGYPT FERRY"
+  },
+  {
+    "serial": "124329",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "133952",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "135942",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "136250",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "138283",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "140012",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "140334",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "141166",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "146099",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "146359",
+    "field": "BASKINTON, SOUTH"
+  },
+  {
+    "serial": "156795",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "168523",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "168597",
+    "field": "TRUE LIGHT CHURCH"
+  },
+  {
+    "serial": "173145",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "173822",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "173823",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "173979",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "174372",
+    "field": "TURKEY CREEK"
+  },
+  {
+    "serial": "177170",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "177672",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "177746",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "179048",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "179610",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "179953",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "180260",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "180261",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "182152",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "182154",
+    "field": "BASKINTON, SOUTH"
+  },
+  {
+    "serial": "183070",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "183752",
+    "field": "TURKEY CREEK"
+  },
+  {
+    "serial": "184543",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "186453",
+    "field": "TURKEY CREEK"
+  },
+  {
+    "serial": "188240",
+    "field": "TURKEY CREEK"
+  },
+  {
+    "serial": "190706",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "191609",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "192694",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "193142",
+    "field": "BIG CREEK, SOUTH"
+  },
+  {
+    "serial": "194254",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "194420",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "195055",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "198303",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "201655",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "201912",
+    "field": "WISNER"
+  },
+  {
+    "serial": "202118",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "202473",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "203222",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "203716",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "203911",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "204217",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "205206",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "206245",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "207150",
+    "field": "KILLENS FERRY"
+  },
+  {
+    "serial": "208160",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "208300",
+    "field": "LONGVIEW"
+  },
+  {
+    "serial": "208785",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "211505",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "217456",
+    "field": "BASKINTON"
+  },
+  {
+    "serial": "217936",
+    "field": "TURKEY CREEK"
+  },
+  {
+    "serial": "221032",
+    "field": "INDIAN LAKE"
+  },
+  {
+    "serial": "221396",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "222758",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "222822",
+    "field": "LAMAR"
+  },
+  {
+    "serial": "228491",
+    "field": "TURKEY CREEK, WEST"
+  },
+  {
+    "serial": "228521",
+    "field": "TURKEY CREEK, WEST"
+  },
+  {
+    "serial": "237629",
+    "field": "TURKEY CREEK, WEST"
+  },
+  {
+    "serial": "241208",
+    "field": "DELHI"
+  },
+  {
+    "serial": "241260",
+    "field": "DELHI"
+  },
+  {
+    "serial": "242869",
+    "field": "DELHI"
+  },
+  {
+    "serial": "242870",
+    "field": "DELHI"
+  },
+  {
+    "serial": "242871",
+    "field": "DELHI"
+  },
+  {
+    "serial": "242973",
+    "field": "TURKEY CREEK"
+  },
+  {
+    "serial": "243445",
+    "field": "DELHI"
+  },
+  {
+    "serial": "243446",
+    "field": "DELHI"
+  },
+  {
+    "serial": "243550",
+    "field": "DELHI"
+  },
+  {
+    "serial": "245829",
+    "field": "DELHI"
+  },
+  {
+    "serial": "246581",
+    "field": "DELHI"
+  },
+  {
+    "serial": "246939",
+    "field": "INDIAN LAKE"
+  },
+  {
+    "serial": "247623",
+    "field": "DELHI"
+  },
+  {
+    "serial": "247750",
+    "field": "DELHI, SOUTH"
+  },
+  {
+    "serial": "248168",
+    "field": "DELHI"
+  },
+  {
+    "serial": "990305",
+    "field": "DELHI"
+  },
+  {
+    "serial": "990306",
+    "field": "DELHI"
+  },
+  {
+    "serial": "990307",
+    "field": "DELHI"
+  }
+]

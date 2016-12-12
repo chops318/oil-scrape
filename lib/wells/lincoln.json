@@ -1,0 +1,4702 @@
+[
+  {
+    "serial": "977",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "1577",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "2686",
+    "field": "LISBON"
+  },
+  {
+    "serial": "3452",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "4900",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "12420",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "15540",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "18037",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "18449",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "18614",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "19916",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20015",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20061",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20108",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "20112",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20136",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20137",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20199",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20208",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20236",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20269",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20318",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20330",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20365",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20370",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20371",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20379",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20420",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20531",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20605",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20724",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20728",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20768",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20830",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20838",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20887",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20889",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20899",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20921",
+    "field": "LISBON"
+  },
+  {
+    "serial": "20967",
+    "field": "LISBON"
+  },
+  {
+    "serial": "21065",
+    "field": "LISBON"
+  },
+  {
+    "serial": "21066",
+    "field": "LISBON"
+  },
+  {
+    "serial": "21270",
+    "field": "LISBON"
+  },
+  {
+    "serial": "21286",
+    "field": "LISBON"
+  },
+  {
+    "serial": "21334",
+    "field": "LISBON"
+  },
+  {
+    "serial": "21359",
+    "field": "LISBON"
+  },
+  {
+    "serial": "21390",
+    "field": "LISBON"
+  },
+  {
+    "serial": "28692",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "28877",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "29216",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "29227",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "29425",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "30195",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "30342",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "30833",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "31221",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "31565",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "32127",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "32913",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "33746",
+    "field": "LISBON"
+  },
+  {
+    "serial": "34263",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "34295",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "34506",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "34575",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "34931",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "34967",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "34974",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "35079",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "35157",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "35165",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "35275",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "35832",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "36019",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "36407",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "36542",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "36983",
+    "field": "LISBON"
+  },
+  {
+    "serial": "37088",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "37274",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "37323",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "37342",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "37755",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "37936",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "38522",
+    "field": "LISBON"
+  },
+  {
+    "serial": "38576",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "38733",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "38793",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "38948",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "39072",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "39646",
+    "field": "LISBON"
+  },
+  {
+    "serial": "39657",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "39838",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "40099",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "40377",
+    "field": "LISBON"
+  },
+  {
+    "serial": "40547",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "40550",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "40678",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "40679",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "40712",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "40856",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "40982",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "41369",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "41410",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "41601",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "41749",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "41769",
+    "field": "LISBON"
+  },
+  {
+    "serial": "41924",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "41986",
+    "field": "LISBON"
+  },
+  {
+    "serial": "41987",
+    "field": "LISBON"
+  },
+  {
+    "serial": "42103",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "42253",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "42279",
+    "field": "LISBON"
+  },
+  {
+    "serial": "42280",
+    "field": "LISBON"
+  },
+  {
+    "serial": "42312",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "42328",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "42608",
+    "field": "LISBON"
+  },
+  {
+    "serial": "42887",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "42924",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "43321",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "43348",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "43365",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "43541",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "43683",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "43751",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "43807",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "43858",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "43933",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "43985",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "44089",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "44767",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "44800",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "44816",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "44826",
+    "field": "CLAY"
+  },
+  {
+    "serial": "44894",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "45145",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "45153",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "45401",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "45446",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "45534",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "45550",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "46148",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "46558",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "46587",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "46740",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "46793",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "46928",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "46931",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "46957",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "47125",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "47569",
+    "field": "CLAY"
+  },
+  {
+    "serial": "47649",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "47710",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "47728",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "47794",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "47870",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "48035",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "48212",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "48410",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "48411",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "48841",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "50277",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "50833",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "50865",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "51098",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "51448",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "52272",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "53882",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "54035",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "54703",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "56025",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "56559",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "56847",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "57767",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "58010",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "60889",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "61787",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "62165",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "64768",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "66072",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "67663",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "69786",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "69880",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "69881",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "70096",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "70399",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "70685",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "71621",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "71992",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "72318",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "72531",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "72772",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "73117",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "73405",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "73917",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "74045",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "74353",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "74485",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "74724",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "75049",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "75572",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "75727",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "75728",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "76098",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "76361",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "76427",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "76667",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "76936",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "77142",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "77507",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "77654",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "78040",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "78050",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "78274",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "78645",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "78677",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "78876",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "78905",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "79053",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "79412",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "79468",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "79470",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "79519",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "79653",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "80163",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "80193",
+    "field": "LISBON"
+  },
+  {
+    "serial": "80194",
+    "field": "LISBON"
+  },
+  {
+    "serial": "80595",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "81634",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "81914",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "81915",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "82378",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "82536",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "82815",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "82872",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "83097",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "83447",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "83551",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "83556",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "83867",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "84615",
+    "field": "DOWNSVILLE, SOUTH"
+  },
+  {
+    "serial": "84771",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "85231",
+    "field": "CALHOUN"
+  },
+  {
+    "serial": "85829",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "85840",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "86296",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "86781",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "87640",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "87708",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "87709",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "87954",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "88424",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "88533",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "88546",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "88943",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "89135",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "89461",
+    "field": "WILDCAT-NO LA SHREVEPORT DIST"
+  },
+  {
+    "serial": "89932",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "90132",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "90209",
+    "field": "CLAY"
+  },
+  {
+    "serial": "90327",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "90416",
+    "field": "DOWNSVILLE, SOUTH"
+  },
+  {
+    "serial": "91289",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "91361",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "91420",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "91601",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "91636",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "91651",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "91755",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "91762",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "92501",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "92520",
+    "field": "DOWNSVILLE, SOUTH"
+  },
+  {
+    "serial": "93127",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "93306",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "93500",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "93506",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "94906",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "94968",
+    "field": "DOWNSVILLE, SOUTH"
+  },
+  {
+    "serial": "95071",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "95285",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "95286",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "95338",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "96039",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "96600",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "96618",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "96910",
+    "field": "DOWNSVILLE, SOUTH"
+  },
+  {
+    "serial": "97662",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "98621",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "99139",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "99227",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "99646",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "99938",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "100168",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "100187",
+    "field": "DOWNSVILLE, SOUTH"
+  },
+  {
+    "serial": "100605",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "101532",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "102214",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "102215",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "102341",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "102636",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "105031",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "105455",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "105907",
+    "field": "CALHOUN"
+  },
+  {
+    "serial": "108391",
+    "field": "LISBON"
+  },
+  {
+    "serial": "108558",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "108659",
+    "field": "DOWNSVILLE, SOUTH"
+  },
+  {
+    "serial": "110260",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "112012",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "112375",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "112884",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "113466",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "113584",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "113792",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "114053",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "114290",
+    "field": "CLAY"
+  },
+  {
+    "serial": "115614",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "116450",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "117076",
+    "field": "DOWNSVILLE, SOUTH"
+  },
+  {
+    "serial": "117198",
+    "field": "CLAY"
+  },
+  {
+    "serial": "117566",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "117997",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "118528",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "118930",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "119589",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "121078",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "125763",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "126549",
+    "field": "DOWNSVILLE, SOUTH"
+  },
+  {
+    "serial": "127136",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "131946",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "134790",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "135463",
+    "field": "UNIONVILLE, NORTH"
+  },
+  {
+    "serial": "136147",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "136452",
+    "field": "LISBON"
+  },
+  {
+    "serial": "138408",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "139349",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "141334",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "142130",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "142734",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "144245",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "144252",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "144329",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "145458",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "146146",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "147631",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "147816",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "148636",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "149189",
+    "field": "DOWNSVILLE, SOUTH"
+  },
+  {
+    "serial": "149372",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "149484",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "150220",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "150910",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "151763",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "151854",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "151878",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "152285",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "152495",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "153511",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "153704",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "153982",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "154047",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "154823",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "155109",
+    "field": "CLAY"
+  },
+  {
+    "serial": "155201",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "155499",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "155858",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "156288",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "156799",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "157088",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "157120",
+    "field": "CLAY"
+  },
+  {
+    "serial": "157233",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "157393",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "157484",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "157799",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "158186",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "158260",
+    "field": "CLAY"
+  },
+  {
+    "serial": "158346",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "158434",
+    "field": "CLAY"
+  },
+  {
+    "serial": "159066",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "159222",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "159490",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "159522",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "159740",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "160517",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "160624",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "160940",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "161007",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "162150",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "162709",
+    "field": "CLAY"
+  },
+  {
+    "serial": "162874",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "162894",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "163073",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "163895",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "164647",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "164745",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "164927",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "165321",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "165337",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "165388",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "165524",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "165913",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "165942",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "166032",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "166040",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "166068",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "166082",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "166960",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "167079",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "167220",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "167352",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "167396",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "167421",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "167449",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "167917",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "167969",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "168302",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "168556",
+    "field": "LISBON"
+  },
+  {
+    "serial": "168741",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "168814",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "168892",
+    "field": "CLAY"
+  },
+  {
+    "serial": "169439",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "169549",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "170547",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "170647",
+    "field": "CLAY"
+  },
+  {
+    "serial": "170665",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "170744",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "170867",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "171325",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "171380",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "171728",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "171888",
+    "field": "LISBON"
+  },
+  {
+    "serial": "171889",
+    "field": "LISBON"
+  },
+  {
+    "serial": "172092",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "172656",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "172802",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "172996",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "173246",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "173716",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "173826",
+    "field": "CALHOUN"
+  },
+  {
+    "serial": "173889",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "173919",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "174387",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "174777",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "174973",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "175211",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "175563",
+    "field": "CLAY"
+  },
+  {
+    "serial": "175590",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "176042",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "176188",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "176245",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "176339",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "176532",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "176606",
+    "field": "CALHOUN"
+  },
+  {
+    "serial": "176753",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "176889",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "177346",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "177385",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "177569",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "177655",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "178708",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "178858",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "178906",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "178942",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "179060",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "179120",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "179273",
+    "field": "CLAY"
+  },
+  {
+    "serial": "179386",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "179448",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "179598",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "179827",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "180274",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "180334",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "180515",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "181175",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "181176",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "182369",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "182591",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "182991",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "183211",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "183400",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "183559",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "183707",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "184093",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "184329",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "184426",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "184496",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "184987",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "185095",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "185582",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "185653",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "186545",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "186696",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "186697",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "187159",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "187208",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "188241",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "188341",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "189256",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "189810",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "190393",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "190666",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "190907",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "191120",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "191278",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "191295",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "191332",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "191491",
+    "field": "CALHOUN"
+  },
+  {
+    "serial": "191549",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "191635",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "191720",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "192340",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "192391",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "192612",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "192940",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "193167",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "193256",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "194170",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "194380",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "194381",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "194831",
+    "field": "CLAY"
+  },
+  {
+    "serial": "195345",
+    "field": "LISBON"
+  },
+  {
+    "serial": "195613",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "195747",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "195973",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "196011",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "196254",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "196471",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "196946",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "197705",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "197830",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "197979",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "198113",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "198203",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "198250",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "198609",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "198793",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "198938",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "199014",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "199124",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "199535",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "199622",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "199726",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "199861",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "200105",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "200358",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "200525",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "201032",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "201369",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "201592",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "201678",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "202369",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "202520",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "203388",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "204119",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "204181",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "204313",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "204615",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "204689",
+    "field": "LISBON"
+  },
+  {
+    "serial": "206241",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "206321",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "206567",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "206886",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "206934",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "207000",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "207151",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "207234",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "207770",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "208279",
+    "field": "CALHOUN"
+  },
+  {
+    "serial": "208294",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "208583",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "208857",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "209531",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "209552",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "209573",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "209853",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "209943",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "210078",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "210566",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "210631",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "210954",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "210999",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "211000",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "211018",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "211141",
+    "field": "LISBON"
+  },
+  {
+    "serial": "211689",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "211752",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "211753",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "211857",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "211923",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "212030",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "212059",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "212177",
+    "field": "CLAY"
+  },
+  {
+    "serial": "212207",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "212208",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "212284",
+    "field": "CLAY"
+  },
+  {
+    "serial": "212374",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "212382",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "212647",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "212733",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "212874",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "212916",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "212958",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "212959",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "213012",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "213057",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "213307",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "213376",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "213433",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "213657",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "213730",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "214222",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "214237",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "214378",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "214873",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "214956",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "214999",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "215125",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "215174",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "215473",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "215646",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "216218",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "216345",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "216355",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "216400",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "216418",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "216472",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "216611",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "216630",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "216633",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "216639",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "216774",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "216789",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "216806",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "216902",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "216910",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "216948",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "216989",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "217009",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "217070",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "217154",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "217216",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "217279",
+    "field": "CLAY"
+  },
+  {
+    "serial": "217418",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "217697",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "217722",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "217766",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "217870",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "217994",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "218000",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "218061",
+    "field": "CLAY"
+  },
+  {
+    "serial": "218105",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "218115",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "218300",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "218475",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "218492",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "218514",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "218669",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "218685",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "218757",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "218816",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "219525",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "219735",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "220224",
+    "field": "LISBON"
+  },
+  {
+    "serial": "220332",
+    "field": "LISBON"
+  },
+  {
+    "serial": "220486",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "220596",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "220603",
+    "field": "LISBON"
+  },
+  {
+    "serial": "221190",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "221568",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "221579",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "221624",
+    "field": "LISBON"
+  },
+  {
+    "serial": "221952",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "222365",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "222463",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "222663",
+    "field": "CALHOUN"
+  },
+  {
+    "serial": "222865",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "222977",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "223065",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "223089",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "223175",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "223189",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "223223",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "223296",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "223590",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "223637",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "223752",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "223926",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "224251",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "224359",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "224408",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "224421",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "224600",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "224654",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "224655",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "224656",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "224771",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "224870",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "224928",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "225218",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "225248",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "225381",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "225423",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "225738",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "225779",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "225808",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "225860",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "225886",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "226057",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "226058",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "226198",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "226308",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "226359",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "226402",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "226516",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "226526",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "226605",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "226620",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "226664",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "226726",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "227008",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "227076",
+    "field": "CALHOUN"
+  },
+  {
+    "serial": "227082",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "227084",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "227159",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "227206",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "227231",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "227490",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "227547",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "227622",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "227679",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "227984",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "228034",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "228055",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "228056",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "228057",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "228069",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "228081",
+    "field": "LISBON"
+  },
+  {
+    "serial": "228144",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "228160",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "228192",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "228307",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "228509",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "228680",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "228682",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "228839",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "228957",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "229012",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "229031",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "229491",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "229866",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "229931",
+    "field": "CLAY"
+  },
+  {
+    "serial": "230277",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "230300",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "230468",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "230676",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "230798",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "230799",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "230932",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "231075",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "231114",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "231234",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "231333",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "231377",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "231532",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "231587",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "231612",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "231783",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "231885",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "231981",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "232022",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "232116",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "232141",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "232217",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "232275",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "232312",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "232324",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "232403",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "232479",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "232506",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "232516",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "232520",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "232543",
+    "field": "CLAY"
+  },
+  {
+    "serial": "232696",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "232750",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "232821",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "232846",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "232910",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "233196",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "233286",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "233307",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "233308",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "233348",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "233392",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "233672",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "233700",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "233701",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "233705",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "233768",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "233879",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "233914",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "234018",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "234100",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "234101",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "234112",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234113",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234160",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234184",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "234196",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "234197",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234222",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234258",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234276",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "234302",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "234333",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234362",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234363",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234364",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234408",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234419",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234431",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "234506",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "234507",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234508",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234566",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234570",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "234598",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234605",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234689",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234727",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "234784",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234788",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234839",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234840",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "234892",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234912",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234913",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234914",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234915",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "234929",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "234936",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "234972",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "234990",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "235007",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "235019",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235070",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235148",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235201",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235228",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235265",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "235329",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235334",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235335",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235340",
+    "field": "CLAY"
+  },
+  {
+    "serial": "235344",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235399",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235400",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235401",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235402",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235414",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235425",
+    "field": "SUGAR CREEK"
+  },
+  {
+    "serial": "235487",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "235635",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "235670",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235673",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235697",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235720",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "235724",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235741",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235793",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235803",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235847",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235848",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235850",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235901",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235902",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235914",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "235991",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "235999",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "236042",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236043",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236084",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236099",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236101",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236103",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236158",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236165",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236166",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236167",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "236189",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236191",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236214",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236227",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236260",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236296",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "236380",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236381",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236382",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236406",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236415",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236416",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236443",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236480",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "236481",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "236482",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "236483",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "236568",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "236600",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236601",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236668",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236708",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236709",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236713",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236756",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236766",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236807",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236809",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236818",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "236837",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236838",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236839",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "236912",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236918",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "236981",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "237019",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "237024",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "237062",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237075",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237076",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237081",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "237101",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "237137",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237138",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237139",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "237140",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "237141",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237168",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "237179",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "237182",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "237183",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237202",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "237229",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237254",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237341",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237342",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "237413",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "237452",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237485",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "237487",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "237490",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237496",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237497",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237506",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "237596",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "237597",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "237620",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "237621",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "237633",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "237636",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "237662",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "237740",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "237751",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "237766",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237767",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237775",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237925",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237936",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "237937",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237947",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "237955",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "237956",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "238004",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "238090",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "238130",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "238132",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "238149",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "238150",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "238151",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "238152",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "238162",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "238253",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "238255",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "238256",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "238257",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "238339",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "238360",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "238518",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "238528",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "238552",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "238570",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "238580",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "238586",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "238599",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "238721",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "238723",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "238859",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "238875",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "238885",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "238901",
+    "field": "CLAY"
+  },
+  {
+    "serial": "239023",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "239058",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "239129",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "239193",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "239474",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "239754",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "239762",
+    "field": "MIDDLEFORK"
+  },
+  {
+    "serial": "239763",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "239832",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "240327",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "240422",
+    "field": "SIMSBORO"
+  },
+  {
+    "serial": "240688",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "240853",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "240854",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "240897",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "241083",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "241131",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "241177",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "241188",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "241564",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "241569",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "241887",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "242316",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "242471",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "242484",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "242618",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "242765",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "242825",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "243077",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "243485",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "243675",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "243903",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "244301",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "244334",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "244387",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "244397",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "244511",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "244698",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "244878",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "244914",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "245036",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "245037",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "245145",
+    "field": "UNIONVILLE"
+  },
+  {
+    "serial": "245216",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "245381",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "245382",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "245411",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "245550",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "245660",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "245776",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "245797",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "245812",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "245832",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "245968",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "246028",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "246031",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "246064",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "246080",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "246130",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "246131",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "246132",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "246133",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "246285",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "246386",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "246411",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "246550",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "246551",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "246744",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "246746",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "246747",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "246866",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "246881",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "246914",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "246915",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "246916",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "246917",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "246950",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "247079",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "247194",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "247206",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "247292",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "247294",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "247441",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "247480",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "247481",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "247482",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "247483",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "247599",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "247600",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "247714",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "247715",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "247827",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "247874",
+    "field": "SIMSBORO, WEST"
+  },
+  {
+    "serial": "247886",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "247891",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "247892",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "247980",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "247981",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "247983",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "247999",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248022",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248023",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248045",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248191",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248199",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "248200",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "248201",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "248202",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "248250",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248271",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "248290",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248291",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248292",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248293",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248294",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248314",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248330",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248343",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "248344",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248446",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248447",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248448",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248518",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "248519",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "248520",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "248521",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "248530",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "248584",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248585",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248706",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "248732",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248744",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "248745",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "248846",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248847",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248861",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "248877",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "248883",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "248932",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "248966",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248967",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248973",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248974",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248975",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248976",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248977",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248978",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "248979",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "249001",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "249002",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "249003",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "249004",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "249005",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "249006",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "249024",
+    "field": "TREMONT"
+  },
+  {
+    "serial": "249041",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "249046",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "249047",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "249048",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "249055",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "249056",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "249069",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "249070",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "249071",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "249138",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "249139",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "249140",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "249178",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "249225",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "249336",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "249341",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "249351",
+    "field": "CHOUDRANT"
+  },
+  {
+    "serial": "249428",
+    "field": "RUSTON"
+  },
+  {
+    "serial": "249444",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "249445",
+    "field": "TERRYVILLE"
+  },
+  {
+    "serial": "970465",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "970491",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "970492",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "970494",
+    "field": "HICO-KNOWLES"
+  },
+  {
+    "serial": "970529",
+    "field": "LISBON"
+  }
+]

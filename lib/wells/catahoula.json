@@ -1,0 +1,3006 @@
+[
+  {
+    "serial": "10409",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "11184",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "13856",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "14206",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "15897",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "16015",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "16210",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "16408",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "17701",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "25826",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "26807",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "26988",
+    "field": "JONESVILLE"
+  },
+  {
+    "serial": "27271",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "27774",
+    "field": "MANIFEST"
+  },
+  {
+    "serial": "30165",
+    "field": "MANIFEST"
+  },
+  {
+    "serial": "32059",
+    "field": "SICILY ISLAND"
+  },
+  {
+    "serial": "32203",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "32222",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "33972",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "36434",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "36565",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "36739",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "36991",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "38258",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "38585",
+    "field": "SICILY ISLAND"
+  },
+  {
+    "serial": "38784",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "38887",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "38942",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "39070",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "39343",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "39364",
+    "field": "MANIFEST"
+  },
+  {
+    "serial": "39433",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "40122",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "41472",
+    "field": "SICILY ISLAND"
+  },
+  {
+    "serial": "41785",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "41937",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "41939",
+    "field": "SALINE LAKE, NORTH"
+  },
+  {
+    "serial": "42436",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "43529",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "43663",
+    "field": "SICILY ISLAND"
+  },
+  {
+    "serial": "43832",
+    "field": "SICILY ISLAND"
+  },
+  {
+    "serial": "43838",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "43908",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "43948",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "43989",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "44657",
+    "field": "SICILY ISLAND"
+  },
+  {
+    "serial": "44964",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "45678",
+    "field": "MANIFEST"
+  },
+  {
+    "serial": "46210",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "46247",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "46336",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "46355",
+    "field": "POOL LAKE, WEST"
+  },
+  {
+    "serial": "46399",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "46429",
+    "field": "SICILY ISLAND"
+  },
+  {
+    "serial": "46644",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "47100",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "47331",
+    "field": "SICILY ISLAND"
+  },
+  {
+    "serial": "47402",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "50228",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "53638",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "53729",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "54485",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "54701",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "54803",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "56037",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "56270",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "56780",
+    "field": "SALINE LAKE, NORTH"
+  },
+  {
+    "serial": "57027",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "57922",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "58141",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "58346",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "58347",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "58389",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "58643",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "58785",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "58870",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "58921",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "59503",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "59634",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "59656",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "59814",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "60093",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "60218",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "60495",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "60561",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "61031",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "61310",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "61549",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "62196",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "62331",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "62358",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "62838",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "62839",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "63154",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "63400",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "63694",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "63759",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "64272",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "64608",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "65135",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "65167",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "65249",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "67395",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "67398",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "67444",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "67822",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "67910",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "69376",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "69589",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "70941",
+    "field": "CARR LAKE"
+  },
+  {
+    "serial": "71099",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "71389",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "71719",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "71759",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "72662",
+    "field": "ENTERPRISE"
+  },
+  {
+    "serial": "72771",
+    "field": "LONG SLOUGH"
+  },
+  {
+    "serial": "73028",
+    "field": "LONG SLOUGH"
+  },
+  {
+    "serial": "73267",
+    "field": "PRICHARD"
+  },
+  {
+    "serial": "73630",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "73916",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "73991",
+    "field": "PRICHARD"
+  },
+  {
+    "serial": "74068",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "74193",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "74806",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "74945",
+    "field": "PRICHARD"
+  },
+  {
+    "serial": "75121",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "75396",
+    "field": "PRICHARD, SOUTH"
+  },
+  {
+    "serial": "75481",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "75719",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "75803",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "75836",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "75877",
+    "field": "LONG BRANCH"
+  },
+  {
+    "serial": "76091",
+    "field": "LONG BRANCH"
+  },
+  {
+    "serial": "76356",
+    "field": "LONG BRANCH"
+  },
+  {
+    "serial": "76386",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "76443",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "76482",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "76655",
+    "field": "PRICHARD, SOUTH"
+  },
+  {
+    "serial": "76791",
+    "field": "UTILITY, SOUTH"
+  },
+  {
+    "serial": "76995",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "77037",
+    "field": "CARR LAKE"
+  },
+  {
+    "serial": "77039",
+    "field": "PRICHARD, SOUTH"
+  },
+  {
+    "serial": "77093",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "77455",
+    "field": "PRICHARD, SOUTH"
+  },
+  {
+    "serial": "77608",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "77897",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "78404",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "78523",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "78578",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "78940",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "79039",
+    "field": "CALIFORNIA BAYOU"
+  },
+  {
+    "serial": "79462",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "79622",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "80179",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "80208",
+    "field": "LONG BRANCH"
+  },
+  {
+    "serial": "80228",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "80279",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "80280",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "80417",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "80524",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "80644",
+    "field": "UTILITY"
+  },
+  {
+    "serial": "80767",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "80810",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "80823",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "80824",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "80869",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "80923",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "81164",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "81303",
+    "field": "BOLTNERS BRAKE"
+  },
+  {
+    "serial": "81390",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "81737",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "82102",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "82237",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "82238",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "82343",
+    "field": "BOLTNERS BRAKE"
+  },
+  {
+    "serial": "82420",
+    "field": "LONG BRANCH"
+  },
+  {
+    "serial": "82772",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "83313",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "83500",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "83672",
+    "field": "KINCAID BAYOU"
+  },
+  {
+    "serial": "83703",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "84039",
+    "field": "KINCAID BAYOU"
+  },
+  {
+    "serial": "84169",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "85113",
+    "field": "MONTEREY, SOUTH"
+  },
+  {
+    "serial": "85369",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "85487",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "85854",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "85964",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "86043",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "86202",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "86377",
+    "field": "BOLTNERS BRAKE"
+  },
+  {
+    "serial": "86605",
+    "field": "ELM RIDGE"
+  },
+  {
+    "serial": "86742",
+    "field": "MONTEREY, SOUTH"
+  },
+  {
+    "serial": "86883",
+    "field": "UTILITY"
+  },
+  {
+    "serial": "86971",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "87053",
+    "field": "LONG BRANCH"
+  },
+  {
+    "serial": "87227",
+    "field": "UTILITY"
+  },
+  {
+    "serial": "87270",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "87273",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "87357",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "87400",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "87420",
+    "field": "UTILITY"
+  },
+  {
+    "serial": "87499",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "87612",
+    "field": "UTILITY"
+  },
+  {
+    "serial": "87638",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "87731",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "87899",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "87904",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "88098",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "88238",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "88359",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "88906",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "89106",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "89669",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "89774",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "89822",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "90292",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "90439",
+    "field": "BAYOU LOUIS"
+  },
+  {
+    "serial": "90471",
+    "field": "HARRISONBURG, SOUTH"
+  },
+  {
+    "serial": "90473",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "90485",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "90676",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "90779",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "90880",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "90932",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "91269",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "91357",
+    "field": "UTILITY"
+  },
+  {
+    "serial": "91368",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "91407",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "91416",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "91554",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "91602",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "91612",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "91675",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "91700",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "91702",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "91718",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "91886",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "91942",
+    "field": "BRYANT BRAKE"
+  },
+  {
+    "serial": "91987",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "92140",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "92165",
+    "field": "LONG BRANCH"
+  },
+  {
+    "serial": "92200",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "92201",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "92308",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "92392",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "92597",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "92682",
+    "field": "BRYANT BRAKE"
+  },
+  {
+    "serial": "92983",
+    "field": "BRYANT BRAKE"
+  },
+  {
+    "serial": "93029",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "93152",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "93230",
+    "field": "MANIFEST"
+  },
+  {
+    "serial": "93251",
+    "field": "STOKES CREEK"
+  },
+  {
+    "serial": "93556",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "93639",
+    "field": "STOKES CREEK"
+  },
+  {
+    "serial": "93859",
+    "field": "STOKES CREEK"
+  },
+  {
+    "serial": "94319",
+    "field": "BRYANT BRAKE"
+  },
+  {
+    "serial": "94463",
+    "field": "STOKES CREEK"
+  },
+  {
+    "serial": "94868",
+    "field": "STOKES CREEK"
+  },
+  {
+    "serial": "95087",
+    "field": "CALIFORNIA BAYOU"
+  },
+  {
+    "serial": "95398",
+    "field": "STOKES CREEK"
+  },
+  {
+    "serial": "95618",
+    "field": "PRICHARD, SOUTH"
+  },
+  {
+    "serial": "95638",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "95678",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "95706",
+    "field": "PRICHARD, SOUTH"
+  },
+  {
+    "serial": "95791",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "95801",
+    "field": "PRICHARD, SOUTH"
+  },
+  {
+    "serial": "95872",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "96042",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "96047",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "96122",
+    "field": "ENTERPRISE"
+  },
+  {
+    "serial": "96177",
+    "field": "KINCAID BAYOU"
+  },
+  {
+    "serial": "96489",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "96923",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "97388",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "97411",
+    "field": "LONG BRANCH"
+  },
+  {
+    "serial": "97666",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "97740",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "97988",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "98185",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "98580",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "98906",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "99224",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "99247",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "99361",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "99645",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "100051",
+    "field": "CARR LAKE"
+  },
+  {
+    "serial": "100544",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "100774",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "100830",
+    "field": "BRYANT BRAKE"
+  },
+  {
+    "serial": "101136",
+    "field": "CARR LAKE"
+  },
+  {
+    "serial": "101279",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "101405",
+    "field": "BRYANT BRAKE"
+  },
+  {
+    "serial": "101501",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "101633",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "101634",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "101776",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "102438",
+    "field": "WILLOW LAKE, NORTH"
+  },
+  {
+    "serial": "102948",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "103124",
+    "field": "BRYANT BRAKE"
+  },
+  {
+    "serial": "103168",
+    "field": "WILLOW LAKE, NORTH"
+  },
+  {
+    "serial": "103184",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "103357",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "103504",
+    "field": "CARR LAKE"
+  },
+  {
+    "serial": "103696",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "103816",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "104667",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "104999",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "105097",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "105184",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "105285",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "105393",
+    "field": "MONTEREY, SOUTH"
+  },
+  {
+    "serial": "105668",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "105708",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "105776",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "105971",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "106293",
+    "field": "LARTO"
+  },
+  {
+    "serial": "106340",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "106466",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "106655",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "107063",
+    "field": "ENTERPRISE"
+  },
+  {
+    "serial": "109042",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "109088",
+    "field": "UTILITY"
+  },
+  {
+    "serial": "109124",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "109223",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "109290",
+    "field": "CALIFORNIA BAYOU"
+  },
+  {
+    "serial": "109436",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "109569",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "109713",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "109981",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "110030",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "110136",
+    "field": "CALIFORNIA BAYOU"
+  },
+  {
+    "serial": "110237",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "110402",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "110409",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "111110",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "111375",
+    "field": "BRYANT BRAKE"
+  },
+  {
+    "serial": "111420",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "111566",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "111568",
+    "field": "CALIFORNIA BAYOU"
+  },
+  {
+    "serial": "111571",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "111757",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "112063",
+    "field": "WILLOW LAKE, NORTH"
+  },
+  {
+    "serial": "112119",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "112122",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "112290",
+    "field": "UTILITY"
+  },
+  {
+    "serial": "112336",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "112347",
+    "field": "CALIFORNIA BAYOU"
+  },
+  {
+    "serial": "112526",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "112678",
+    "field": "CALIFORNIA BAYOU"
+  },
+  {
+    "serial": "112892",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "113289",
+    "field": "CALIFORNIA BAYOU"
+  },
+  {
+    "serial": "113375",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "113613",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "114587",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "114795",
+    "field": "CALIFORNIA BAYOU"
+  },
+  {
+    "serial": "115174",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "115306",
+    "field": "JONESVILLE"
+  },
+  {
+    "serial": "115316",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "115418",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "115703",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "115727",
+    "field": "WILLOW LAKE, NORTH"
+  },
+  {
+    "serial": "115959",
+    "field": "WILLOW LAKE, NORTH"
+  },
+  {
+    "serial": "115960",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "116250",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "116315",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "116345",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "116409",
+    "field": "BAYOU LOUIS"
+  },
+  {
+    "serial": "117068",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "117331",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "117372",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "117619",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "117627",
+    "field": "BAYOU LOUIS"
+  },
+  {
+    "serial": "117628",
+    "field": "BAYOU LOUIS"
+  },
+  {
+    "serial": "118087",
+    "field": "SERENA"
+  },
+  {
+    "serial": "118143",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "118167",
+    "field": "BAYOU LOUIS"
+  },
+  {
+    "serial": "118443",
+    "field": "BAYOU LOUIS"
+  },
+  {
+    "serial": "118509",
+    "field": "BAYOU LOUIS"
+  },
+  {
+    "serial": "118525",
+    "field": "SERENA"
+  },
+  {
+    "serial": "119253",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "119537",
+    "field": "JONESVILLE"
+  },
+  {
+    "serial": "119705",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "119992",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "120271",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "120309",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "120633",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "120731",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "121004",
+    "field": "BAYOU LOUIS"
+  },
+  {
+    "serial": "121567",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "121816",
+    "field": "UTILITY"
+  },
+  {
+    "serial": "121922",
+    "field": "UTILITY"
+  },
+  {
+    "serial": "123800",
+    "field": "WILLOW LAKE, NORTH"
+  },
+  {
+    "serial": "123887",
+    "field": "GLADE"
+  },
+  {
+    "serial": "125815",
+    "field": "LONG BRANCH"
+  },
+  {
+    "serial": "128974",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "129345",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "129892",
+    "field": "SHOE BAYOU"
+  },
+  {
+    "serial": "130022",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "130301",
+    "field": "BRYANT BRAKE"
+  },
+  {
+    "serial": "130452",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "130588",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "130672",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "130674",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "131083",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "131157",
+    "field": "CROSS BAYOU"
+  },
+  {
+    "serial": "132169",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "132387",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "132388",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "132566",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "132567",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "132603",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "132693",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "133518",
+    "field": "BRYANT BRAKE"
+  },
+  {
+    "serial": "133585",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "133839",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "133958",
+    "field": "HUDSON BRAKE"
+  },
+  {
+    "serial": "133959",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "134006",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "135160",
+    "field": "BRYANT BRAKE"
+  },
+  {
+    "serial": "135361",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "135766",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "135876",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "135886",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "136288",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "136379",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "136476",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "136499",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "136767",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "137131",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "137428",
+    "field": "HONEY BRAKE LAKE"
+  },
+  {
+    "serial": "137477",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "137699",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "137799",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "138184",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "138519",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "138933",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "139355",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "139472",
+    "field": "SHOE BAYOU"
+  },
+  {
+    "serial": "139868",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "140536",
+    "field": "BIG LARTO BAYOU"
+  },
+  {
+    "serial": "140556",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "140729",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "140921",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "141381",
+    "field": "BIG LARTO BAYOU"
+  },
+  {
+    "serial": "143000",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "143181",
+    "field": "BAYOU LOUIS"
+  },
+  {
+    "serial": "143573",
+    "field": "BOLTNERS BRAKE"
+  },
+  {
+    "serial": "143670",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "143805",
+    "field": "BIG LARTO BAYOU"
+  },
+  {
+    "serial": "143826",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "144001",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "144163",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "144296",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "145075",
+    "field": "JONESVILLE"
+  },
+  {
+    "serial": "145594",
+    "field": "BIG LARTO BAYOU"
+  },
+  {
+    "serial": "146281",
+    "field": "CROSS BAYOU"
+  },
+  {
+    "serial": "146446",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "146458",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "146459",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "146462",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "146624",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "146711",
+    "field": "BRYANT BRAKE"
+  },
+  {
+    "serial": "146925",
+    "field": "HONEY BRAKE LAKE"
+  },
+  {
+    "serial": "146948",
+    "field": "JONESVILLE"
+  },
+  {
+    "serial": "147060",
+    "field": "HONEY BRAKE LAKE"
+  },
+  {
+    "serial": "147132",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "148141",
+    "field": "KINCAID BAYOU, EAST"
+  },
+  {
+    "serial": "148868",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "149818",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "149819",
+    "field": "JONESVILLE"
+  },
+  {
+    "serial": "149999",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "150246",
+    "field": "JONESVILLE"
+  },
+  {
+    "serial": "150508",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "150820",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "150821",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "151810",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "151943",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "151997",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "152406",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "152819",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "152869",
+    "field": "GLADE"
+  },
+  {
+    "serial": "152872",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "153394",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "154062",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "154234",
+    "field": "KINCAID BAYOU, EAST"
+  },
+  {
+    "serial": "155040",
+    "field": "BOOK"
+  },
+  {
+    "serial": "155664",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "155704",
+    "field": "LONG BRANCH"
+  },
+  {
+    "serial": "155896",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "156147",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "156148",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "156247",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "156248",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "156406",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "156429",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "156430",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "156906",
+    "field": "BRYANT BRAKE"
+  },
+  {
+    "serial": "157459",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "159056",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "159516",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "159595",
+    "field": "SHOE BAYOU, SOUTH"
+  },
+  {
+    "serial": "159772",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "159982",
+    "field": "HONEY BRAKE LAKE"
+  },
+  {
+    "serial": "160360",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "160509",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "161349",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "161421",
+    "field": "GLADE"
+  },
+  {
+    "serial": "162323",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "162985",
+    "field": "GLADE"
+  },
+  {
+    "serial": "163407",
+    "field": "SICILY ISLAND, NORTH"
+  },
+  {
+    "serial": "163982",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "164289",
+    "field": "LORRAN LAKE"
+  },
+  {
+    "serial": "164954",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "165003",
+    "field": "BABAYS LAKE"
+  },
+  {
+    "serial": "165046",
+    "field": "GLADE"
+  },
+  {
+    "serial": "165247",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "165284",
+    "field": "BABAYS LAKE"
+  },
+  {
+    "serial": "166108",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "166304",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "166382",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "167230",
+    "field": "LAKE CURRY"
+  },
+  {
+    "serial": "167728",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "168651",
+    "field": "LAKE CURRY"
+  },
+  {
+    "serial": "168870",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "169468",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "169485",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "170369",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "170566",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "170659",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "170710",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "170953",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "171009",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "171502",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "174808",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "175279",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "175863",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "175948",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "176031",
+    "field": "CYPRESS BAYOU, EAST"
+  },
+  {
+    "serial": "176307",
+    "field": "SHOE BAYOU, SOUTH"
+  },
+  {
+    "serial": "176335",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "176441",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "177055",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "177712",
+    "field": "LONG BRANCH"
+  },
+  {
+    "serial": "177774",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "180502",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "181049",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "181286",
+    "field": "CYPRESS BAYOU, EAST"
+  },
+  {
+    "serial": "181287",
+    "field": "CYPRESS BAYOU, EAST"
+  },
+  {
+    "serial": "182148",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "182185",
+    "field": "SCOTT BAYOU, NORTH"
+  },
+  {
+    "serial": "183146",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "183482",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "183582",
+    "field": "SCOTT BAYOU, NORTH"
+  },
+  {
+    "serial": "183630",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "184325",
+    "field": "HIBBS LAKE"
+  },
+  {
+    "serial": "185166",
+    "field": "ROSS BAYOU"
+  },
+  {
+    "serial": "185562",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "185812",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "186208",
+    "field": "HIBBS LAKE"
+  },
+  {
+    "serial": "186892",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "186902",
+    "field": "WILDCAT-NO LA MONROE DIST"
+  },
+  {
+    "serial": "187049",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "187051",
+    "field": "HONEY BRAKE LAKE"
+  },
+  {
+    "serial": "187088",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "187398",
+    "field": "SICILY ISLAND, NORTH"
+  },
+  {
+    "serial": "187641",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "187679",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "187696",
+    "field": "CALIFORNIA BAYOU"
+  },
+  {
+    "serial": "187992",
+    "field": "SICILY ISLAND, NORTH"
+  },
+  {
+    "serial": "188002",
+    "field": "CYPRESS BAYOU, EAST"
+  },
+  {
+    "serial": "188158",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "188254",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "188255",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "188256",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "188257",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "188258",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "189178",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "189180",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "189364",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "189423",
+    "field": "CYPRESS BAYOU, EAST"
+  },
+  {
+    "serial": "189575",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "189615",
+    "field": "KINCAID BAYOU"
+  },
+  {
+    "serial": "191071",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "191072",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "191073",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "191074",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "191191",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "191346",
+    "field": "CYPRESS BAYOU, EAST"
+  },
+  {
+    "serial": "191659",
+    "field": "BRICK YARD LAKE"
+  },
+  {
+    "serial": "191935",
+    "field": "BRICK YARD LAKE"
+  },
+  {
+    "serial": "191936",
+    "field": "BRICK YARD LAKE"
+  },
+  {
+    "serial": "192555",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "192907",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "193174",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "193735",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "193872",
+    "field": "UTILITY"
+  },
+  {
+    "serial": "193978",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "193980",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "194580",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "194801",
+    "field": "CYPRESS BAYOU, EAST"
+  },
+  {
+    "serial": "195049",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "195550",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "195578",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "195774",
+    "field": "CYPRESS BAYOU, EAST"
+  },
+  {
+    "serial": "196401",
+    "field": "CYPRESS BAYOU, EAST"
+  },
+  {
+    "serial": "198045",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "198138",
+    "field": "POOL LAKE"
+  },
+  {
+    "serial": "198742",
+    "field": "KINCAID BAYOU"
+  },
+  {
+    "serial": "199260",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "199295",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "199532",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "199836",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "199883",
+    "field": "CYPRESS BAYOU, EAST"
+  },
+  {
+    "serial": "199959",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "200191",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "200405",
+    "field": "SHOE BAYOU"
+  },
+  {
+    "serial": "200802",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "200803",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "200819",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "201191",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "201460",
+    "field": "CYPRESS BAYOU, EAST"
+  },
+  {
+    "serial": "201546",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "201553",
+    "field": "MEAN LAKE"
+  },
+  {
+    "serial": "201616",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "201617",
+    "field": "BIG BAYOU"
+  },
+  {
+    "serial": "201783",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "202375",
+    "field": "CYPRESS BAYOU, EAST"
+  },
+  {
+    "serial": "202581",
+    "field": "CALIFORNIA BAYOU"
+  },
+  {
+    "serial": "203720",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "203892",
+    "field": "KINCAID BAYOU"
+  },
+  {
+    "serial": "203916",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "204183",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "204187",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "204382",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "204576",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "204651",
+    "field": "STOKES CREEK"
+  },
+  {
+    "serial": "204661",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "204683",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "204804",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "204821",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "204822",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "204944",
+    "field": "CRAIG BAYOU"
+  },
+  {
+    "serial": "204952",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "205335",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "205480",
+    "field": "CRAIG BAYOU"
+  },
+  {
+    "serial": "205500",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "205722",
+    "field": "KINCAID BAYOU"
+  },
+  {
+    "serial": "205723",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "205798",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "205824",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "205830",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "205831",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "205855",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "205894",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "205930",
+    "field": "CRAIG BAYOU"
+  },
+  {
+    "serial": "205992",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "206088",
+    "field": "BAYOU LOUIS"
+  },
+  {
+    "serial": "206167",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "206489",
+    "field": "CYPRESS BAYOU, EAST"
+  },
+  {
+    "serial": "206589",
+    "field": "CARR LAKE"
+  },
+  {
+    "serial": "206727",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "207324",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "207378",
+    "field": "WALLACE LAKE, SOUTHWEST"
+  },
+  {
+    "serial": "208134",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "208296",
+    "field": "SICILY ISLAND"
+  },
+  {
+    "serial": "208729",
+    "field": "KINCAID BAYOU"
+  },
+  {
+    "serial": "208943",
+    "field": "KINCAID BAYOU"
+  },
+  {
+    "serial": "209315",
+    "field": "GLADE"
+  },
+  {
+    "serial": "209562",
+    "field": "BOOK"
+  },
+  {
+    "serial": "209900",
+    "field": "KINCAID BAYOU"
+  },
+  {
+    "serial": "210508",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "211026",
+    "field": "LONG BRANCH, NORTH"
+  },
+  {
+    "serial": "211203",
+    "field": "BAYOU LOUIS"
+  },
+  {
+    "serial": "211236",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "211663",
+    "field": "LONG BRANCH, NORTH"
+  },
+  {
+    "serial": "211997",
+    "field": "LONG BRANCH, NORTH"
+  },
+  {
+    "serial": "212159",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "212498",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "212666",
+    "field": "LONG BRANCH, NORTH"
+  },
+  {
+    "serial": "212940",
+    "field": "LONG BRANCH, NORTH"
+  },
+  {
+    "serial": "213080",
+    "field": "LONG BRANCH, NORTH"
+  },
+  {
+    "serial": "213460",
+    "field": "LONG BRANCH, NORTH"
+  },
+  {
+    "serial": "213461",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "213817",
+    "field": "LONG SLOUGH"
+  },
+  {
+    "serial": "213818",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "214064",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "214360",
+    "field": "BRYANT BRAKE"
+  },
+  {
+    "serial": "214481",
+    "field": "LONG BRANCH, NORTH"
+  },
+  {
+    "serial": "214756",
+    "field": "LONG SLOUGH"
+  },
+  {
+    "serial": "214900",
+    "field": "LONG BRANCH, NORTH"
+  },
+  {
+    "serial": "214913",
+    "field": "UTILITY"
+  },
+  {
+    "serial": "214914",
+    "field": "UTILITY"
+  },
+  {
+    "serial": "214968",
+    "field": "LONG BRANCH, NORTH"
+  },
+  {
+    "serial": "214981",
+    "field": "LONG BRANCH, NORTH"
+  },
+  {
+    "serial": "215048",
+    "field": "LONG BRANCH, NORTH"
+  },
+  {
+    "serial": "215049",
+    "field": "LONG BRANCH, NORTH"
+  },
+  {
+    "serial": "215050",
+    "field": "LONG BRANCH, NORTH"
+  },
+  {
+    "serial": "215236",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "215598",
+    "field": "LONG BRANCH, NORTH"
+  },
+  {
+    "serial": "215697",
+    "field": "LONG BRANCH, NORTH"
+  },
+  {
+    "serial": "215897",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "218262",
+    "field": "SALINE LAKE"
+  },
+  {
+    "serial": "218461",
+    "field": "HONEY BRAKE LAKE"
+  },
+  {
+    "serial": "220363",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "222267",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "222764",
+    "field": "FOULES"
+  },
+  {
+    "serial": "225840",
+    "field": "LONG BRANCH"
+  },
+  {
+    "serial": "225982",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "226154",
+    "field": "TEW LAKE"
+  },
+  {
+    "serial": "226846",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "229025",
+    "field": "MITTEN LAKE"
+  },
+  {
+    "serial": "229128",
+    "field": "MITTEN LAKE"
+  },
+  {
+    "serial": "229301",
+    "field": "MITTEN LAKE"
+  },
+  {
+    "serial": "229302",
+    "field": "MITTEN LAKE"
+  },
+  {
+    "serial": "232606",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "234086",
+    "field": "LONG BRANCH"
+  },
+  {
+    "serial": "235875",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "236328",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "236473",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "237012",
+    "field": "HARRISONBURG"
+  },
+  {
+    "serial": "237236",
+    "field": "MITTEN LAKE"
+  },
+  {
+    "serial": "237842",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "237843",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "237919",
+    "field": "LARTO LAKE, SOUTH"
+  },
+  {
+    "serial": "237934",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "238435",
+    "field": "MITTEN LAKE"
+  },
+  {
+    "serial": "240073",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "240142",
+    "field": "WALLACE LAKE"
+  },
+  {
+    "serial": "240220",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "241102",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "241385",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "241386",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "241765",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "241996",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "242211",
+    "field": "BRYANT BRAKE"
+  },
+  {
+    "serial": "243055",
+    "field": "GLADE"
+  },
+  {
+    "serial": "244121",
+    "field": "PRICHARD, SOUTH"
+  },
+  {
+    "serial": "244165",
+    "field": "RAWSON CREEK"
+  },
+  {
+    "serial": "244968",
+    "field": "PARKER LAKE"
+  },
+  {
+    "serial": "245352",
+    "field": "BRICK YARD LAKE"
+  },
+  {
+    "serial": "245412",
+    "field": "SANDY LAKE"
+  },
+  {
+    "serial": "246598",
+    "field": "BRICK YARD LAKE"
+  },
+  {
+    "serial": "247809",
+    "field": "LARTO LAKE"
+  },
+  {
+    "serial": "247834",
+    "field": "LARTO LAKE, EAST"
+  },
+  {
+    "serial": "247976",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "248458",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "248750",
+    "field": "PATTON CHURCH"
+  },
+  {
+    "serial": "248898",
+    "field": "WILLOW LAKE"
+  },
+  {
+    "serial": "249227",
+    "field": "BAYOU LOUIS"
+  },
+  {
+    "serial": "249266",
+    "field": "KINCAID BAYOU"
+  }
+]
