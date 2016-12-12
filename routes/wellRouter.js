@@ -8,10 +8,10 @@ const excelWriter = require('../lib/excelWrite');
 
 router.get('/', (req, res, next) => {
   Well.find()
+  .select('-productionReports')
   .then((wells) => {
     debugger;
     let wb = excelWriter.generateWorkbook(wells)
-    wb.write('Oil.xlsx');
     wb.write('Excel.xlsx', function (err, stats) {
         console.log('Excel.xlsx written and has the following stats');
         console.log(stats);
