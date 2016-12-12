@@ -11,12 +11,13 @@ router.get('/', (req, res, next) => {
   .select('-productionReports')
   .then((wells) => {
     debugger;
-    let wb = excelWriter.generateWorkbook(wells)
-    wb.write('Excel.xlsx', function (err, stats) {
-        console.log('Excel.xlsx written and has the following stats');
-        console.log(stats);
-    });
-    res.json(wells)
+    excelWriter.generateWorkbook(wells)
+    .then(wb => {
+      wb.write('Excel.xlsx', (err, stats) => {
+        console.log('Excel.xlsx has written');
+        res.send(stats)
+      })
+    })
   })
   .catch(err => console.log(err))
 })
