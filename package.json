@@ -10,9 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^0.22.0",
+    "excel4node": "^1.2.1",
     "express": "^4.14.0",
     "http-errors": "^1.5.1",
     "mongoose": "^4.7.2",
+    "morgan": "^1.7.0",
     "request": "^2.79.0"
   }
 }

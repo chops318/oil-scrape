@@ -2,8 +2,8 @@
 
 const express      = require('express');
 const mongoose     = require('mongoose');
-const scrapeRoutes = require('./route/scrapeRoutes');
-const wellRoutes   = require('./route/wellRoutes');
+const scrapeRouter = require('./routes/scrapeRouter');
+// const wellRouter   = require('./routes/wellRouter');
 const morgan       = require('morgan');
 const app          = express();
 const PORT         = process.env.PORT || 3000;
@@ -14,8 +14,8 @@ const DB_SERVER = process.env.DB_SERVER || LOCAL_DB;
 mongoose.connect(DB_SERVER);
 app.use(morgan('dev'));
 
-app.use('/api/scrape', scrapeRoutes);
-app.use('/api/wells', wellRoutes);
+app.use('/api/scrape', scrapeRouter);
+// app.use('/api/wells', wellRouter);
 
 app.use('*', (req, res, next) => {
   res.json('Not found');
