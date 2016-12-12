@@ -15,7 +15,7 @@ router.get('/', (req, res, next) => {
     .then(wb => {
       wb.write('Excel.xlsx', (err, stats) => {
         console.log('Excel.xlsx has written');
-        res.send(stats)
+        res.download('Excel.xlsx', 'oilWells.xlsx')
       })
     })
   })
