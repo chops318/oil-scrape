@@ -8,7 +8,7 @@ const morgan       = require('morgan');
 const app          = express();
 const PORT         = process.env.PORT || 3000;
 
-const LOCAL_DB = 'mongodb://localhost/oilwells_dev';
+const LOCAL_DB = 'mongodb://localhost/welshOilWells';
 const DB_SERVER = process.env.DB_SERVER || LOCAL_DB;
 
 mongoose.connect(DB_SERVER);
