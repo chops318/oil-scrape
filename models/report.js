@@ -6,6 +6,8 @@ const createError = require('http-errors');
 const ReportSchema = mongoose.Schema({
   reportDate: { type: Date },
   luwCode: { type: String},
+  serialNumber: { type: String},
+  productionType: { type: String},
   wellCount: { type: String },
   openingStock: { type: String },
   oilProduction: { type: String },

@@ -13,6 +13,7 @@
     "excel4node": "^1.2.1",
     "express": "^4.14.0",
     "http-errors": "^1.5.1",
+    "moment": "^2.17.1",
     "mongoose": "^4.7.2",
     "morgan": "^1.7.0",
     "request": "^2.79.0"

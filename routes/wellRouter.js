@@ -2,8 +2,10 @@
 const express = require('express');
 const router = express.Router();
 const Well = require('../models/oilWell');
+const Report = require('../models/report');
 const createError = require('http-errors');
 const xl = require('excel4node');
+const moment = require('moment');
 const excelWriter = require('../lib/excelWrite');
 
 router.get('/', (req, res, next) => {
@@ -20,6 +22,24 @@ router.get('/', (req, res, next) => {
     })
   })
   .catch(err => console.log(err))
+});
+
+router.get('/reports', (req, res, next) => {
+  Report.find({
+    'reportDate': {
+      $gte: new Date('1/1/2014')
+    }
+  })
+  .then( reports => {
+    excelWriter.generateWorkbook(reports)
+    .then(wb => {
+      wb.write('OilWells.xlsx', (err) => {
+        if (err) console.log(err);
+        res.download('OilWells.xlsx', 'Oil-Wells.xlsx')
+      })
+    })
+    .catch(err => console.log(err))
+  })
 })
 
 router.get('/parish/:parish', (req, res, next) => {
@@ -41,9 +61,8 @@ router.get('/well/:serial', (req, res, next) => {
 
 router.get('/test', (req, res, next) => {
   Well.find()
-  .then(wells => {
-    res.send(wells.length)
-  })
+  .populate('productionReports')
+  .then(wells => res.json(wells.length))
 })
 
 module.exports = exports = router;
